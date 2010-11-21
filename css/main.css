@@ -1,9 +1,14 @@
+html {
+    height: 100%;
+}
+
 body {
     font-family: 'Droid Sans Mono', arial, serif;
     font-size: 14pt;
     background-color: rgb(14, 16, 38);
     color: white;
-    height: 16em;
+    min-height: 32em;
+    height: 100%;
 }
 
 #leftMargin {
@@ -12,9 +17,11 @@ body {
     left: 0em;
     top: 0em;
     width: 1em;
-    height: 16em;
+    min-height: 32em;
+    height: 100%;
 }
 
 #content {
     padding-left: 1.25em;
+    height: 100%;
 }
