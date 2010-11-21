@@ -6,9 +6,9 @@ body {
     font-family: 'Droid Sans Mono', arial, serif;
     font-size: 14pt;
     background-color: rgb(14, 16, 38);
-    color: white;
     min-height: 32em;
     height: 100%;
+    color: white;
 }
 
 #leftMargin {
@@ -24,4 +24,16 @@ body {
 #content {
     padding-left: 1.25em;
     height: 100%;
+}
+
+.code li{
+    white-space: pre;
+}
+
+.comment {
+    color: rgb(158, 158, 158);
+}
+
+.keyword {
+    color: rgb(221, 239, 74);
 }
