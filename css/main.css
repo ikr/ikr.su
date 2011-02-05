@@ -5,7 +5,7 @@ html {
 body {
     font-family: 'Droid Sans Mono', arial, serif;
     font-size: 14pt;
-    background-color: rgb(14, 16, 38);
+    background-color: rgb(25, 26, 49);
     min-height: 32em;
     height: 100%;
     color: white;
@@ -24,6 +24,8 @@ body {
 #content {
     padding-left: 1.25em;
     height: 100%;
+    background-color: rgb(14, 16, 38);
+    width: 50em;
 }
 
 .code li{
