@@ -1,0 +1,11 @@
+body {
+    font-family: 'Helvetica Neu', Helvetica, Arial, serif;
+    font-size: 12pt;
+    background-color: rgb(25, 26, 49);
+    color: rgb(200, 200, 200);
+    padding: 1em 8em 4em 8em;
+}
+
+a {
+    color: rgb(97, 206, 60);
+}
