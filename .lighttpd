@@ -1,4 +1,4 @@
-server.document-root = "/Users/ikr/prj/krechetov.net"
+server.document-root = "/Users/ikr/Sites/krechetov.net"
 server.port = 8000
 
 server.modules = (
