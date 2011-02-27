@@ -5,7 +5,13 @@
         <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.2.0/build/cssreset/reset-min.css">
         <link href='http://fonts.googleapis.com/css?family=Droid+Sans+Mono&amp;subset=latin' rel='stylesheet' type='text/css'/>
         <link rel="stylesheet" type="text/css" href="css/main.css"/>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
         <title>Ivan Krechetov's Personal Home Page</title>
+        
+        <script>
+            jQuery(document).ready(function () {
+            });
+        </script>
     </head>
 
     <body>
@@ -20,9 +26,25 @@
                 <li> * this keyboard when yo take it from my cold, dead hands.</li>
                 <li> * </li>
                 <li> * <span class="keyword">@author</span> Ivan Krechetov &lt;<a href="mailto:ivan.krechetov@gmail.com">ivan.krechetov@gmail.com</a>&gt;</li>
-                <li> * <span class="keyword">@see</span> Me in real time: <a href="http://twitter.com/ikr">twitter.com/ikr</a></li>
-                <li> * <span class="keyword">@see</span> My <a href="cv.html">CV</a></li>
+                <li> * <span class="keyword">@see</span>    Me in real time: <a href="http://twitter.com/ikr">twitter.com/ikr</a></li>
+                <li> * <span class="keyword">@see</span>    My <a href="cv.html">CV</a></li>
                 <li> */</li>
+            </ul>
+            
+            <ul>
+                <li id="y-1"><span class="keyword">var</span> <span class="entity">Y_combinator</span> = <span class="keyword">function</span> (f) {</li>
+                <li id="y-2">    <span class="keyword">return function</span> (self) {</li>
+                <li id="y-3">        <span class="keyword">return function</span> (x) {</li>
+                <li id="y-4">            <span class="keyword">return</span> f(self(self))(x);</li>
+                <li id="y-5">        };</li>
+                <li id="y-6">    }(</li>
+                <li id="y-7">        <span class="keyword">function</span> (self) {</li>
+                <li id="y-8">            <span class="keyword">return function</span> (x) {</li>
+                <li id="y-9">                <span class="keyword">return</span> f(self(self))(x);</li>
+                <li id="y-10">            };</li>
+                <li id="y-11">        }</li>
+                <li id="y-12">    );</li>
+                <li id="y-13">};</li>
             </ul>
         </div>
     </body>

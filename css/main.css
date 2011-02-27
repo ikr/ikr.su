@@ -28,7 +28,7 @@ body {
     width: 50em;
 }
 
-.code li{
+.code li {
     white-space: pre;
 }
 
@@ -38,6 +38,10 @@ body {
 
 .keyword {
     color: rgb(221, 239, 74);
+}
+
+.entity {
+    color: rgb(255, 100, 0);
 }
 
 a {
