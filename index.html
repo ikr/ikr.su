@@ -32,19 +32,19 @@
             </ul>
             
             <ul>
-                <li id="y-1"><span class="keyword">var</span> <span class="entity">Y_combinator</span> = <span class="keyword">function</span> (f) {</li>
-                <li id="y-2">    <span class="keyword">return function</span> (self) {</li>
-                <li id="y-3">        <span class="keyword">return function</span> (x) {</li>
-                <li id="y-4">            <span class="keyword">return</span> f(self(self))(x);</li>
-                <li id="y-5">        };</li>
-                <li id="y-6">    }(</li>
-                <li id="y-7">        <span class="keyword">function</span> (self) {</li>
-                <li id="y-8">            <span class="keyword">return function</span> (x) {</li>
-                <li id="y-9">                <span class="keyword">return</span> f(self(self))(x);</li>
-                <li id="y-10">            };</li>
-                <li id="y-11">        }</li>
-                <li id="y-12">    );</li>
-                <li id="y-13">};</li>
+                <li><span class="keyword">var</span> <span class="entity">Y_combinator</span> = <span class="keyword">function</span> (f) {</li>
+                <li>    <span class="keyword">return function</span> (self) {</li>
+                <li>        <span class="keyword">return function</span> (x) {</li>
+                <li>            <span class="keyword">return</span> f(self(self))(x);</li>
+                <li>        };</li>
+                <li>    }(</li>
+                <li>        <span class="keyword">function</span> (self) {</li>
+                <li>            <span class="keyword">return function</span> (x) {</li>
+                <li>                <span class="keyword">return</span> f(self(self))(x);</li>
+                <li>            };</li>
+                <li>        }</li>
+                <li>    );</li>
+                <li>};</li>
             </ul>
         </div>
     </body>
