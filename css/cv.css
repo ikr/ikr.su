@@ -1,7 +1,9 @@
 body {
+    margin: auto;
+    width: 800px;
     font-family: Verdana;
     font-size: 12pt;
-    background-color: rgb(25, 26, 49);
+    background-color: rgb(14, 16, 38);
     color: rgb(200, 200, 200);
     padding: 1em 8em 4em 8em;
 }
