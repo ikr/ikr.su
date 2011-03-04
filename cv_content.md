@@ -21,8 +21,9 @@ Since the very beginning I had no doubts at all that I'll be coding all my life.
 
 ### 1996–2001
 
-I've received a **Bachelor's degree** from Novosibirsk State University. I've graduated with honors,
-having **100% excellent** grades in the Diploma, which makes me one of the 2% top students.
+I've obtained a **Bachelor's degree** from Novosibirsk State University, having graduated with
+honors, with **100% excellent** grades in the Diploma, which makes me **one of the top-2%
+students**.
 
 I studied at the Department of Mechanics and Mathematics. Chair of Programming Subject of research:
 Forming the object-oriented data structures tailor-made for the search tasks.
