@@ -21,7 +21,7 @@ Since the very beginning I had no doubts at all that I'll be coding all my life.
 ### 1996–2001
 
 I've obtained a **Bachelor's degree** from [Novosibirsk State University](http://www.nsu.ru) (NSU),
-having graduated with honors, with **100% excellent** grades in the Diploma, which makes me **one of
+having graduated with honors, with **100% excellent** grades in the diploma, which makes me **one of
 the top-2% students**.
 
 I studied at the department of mechanics and mathematics. We had _a lot_ of Math: mathematical
@@ -44,5 +44,5 @@ application”.
 
 I worked as a PhD Associate at the [University of Twente](http://trese.cs.utwente.nl/) in Enschede,
 The Netherlands. My subject was: “Aspectual Refactoring of Software Architectures”, research in the
-field of aspect-oriented software development: separation of concerns, architectural aspects,
+field of aspect-oriented software development: separation of concerns, architectural aspects,̱
 architectural styles, software architecture design process, “formal” evaluation and refactoring.
