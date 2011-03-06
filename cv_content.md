@@ -39,7 +39,7 @@ object-oriented database.
 I continued at NSU, the same department and chair, and obtained a **Master's degree**, again
 **with honors**; however, the grades weren't that maxed-out anymore, as I already had in parallel a
 full-time job. My master's thesis subject was: “Effective RDBMS usage in an object-oriented
-application”. Regarding the curriculum, it was much more of the computer science-related courses
+application”. Regarding the curriculum, it was more of the computer science-related courses
 than during the bachelor's program.
 
 ### October 2005–October 2006
@@ -54,3 +54,12 @@ Unfortunately, PhD research work didn't quite meet my expectations. It was too m
 papers, and too little (almost none) of writing code. While, of course, the educational value was
 great, and I definitely learned a lot. Thus, in spite of rather promising initial results, I have
 quitted the PhD in favor of a programming job in Switzerland.
+
+## Professional Experience
+
+### March 2000–September 2000
+
+**Glance AG, Zürich.** Worked as a junior programmer on _ActiveFrame_ and it's applications.
+ActiveFrame was a framework for the development of common document flow applications, which engages
+rich data management via an object-oriented database (OO DB). My part was the automatic code
+generator, and the enhancement of some OO DB features.
