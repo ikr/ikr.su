@@ -83,3 +83,11 @@ the company, but never actually has: [WeTellYou.com](http://www.wetellyou.com/) 
 advice system, meant to provide a communication platform for people asking questions and giving
 answers — by e-Mail, Chat and Telephone. In addition the site supplied IP-telephony and billing,
 WAP and PDA adaptations.
+
+I was responsible for the data layer, programmed the chat client, and have built an ad-hoc tasks
+scheduler — crontab appeared to be not good enough for us.
+
+Tech: `Java, Linux, Apache JServ, XSLT, Oracle 8, Java RMI`
+
+References: [Gregory Entin](mailto:g.entin@gmail.com),
+[Adrian Pfister](mailto:adrianpfister@gmail.com)
