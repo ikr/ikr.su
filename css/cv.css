@@ -32,10 +32,6 @@ img {
 }
 
 strong {
-    font-weight: bolder;
-    color: yellow;
-}
-
-code {
-    font-family: 'Droid Sans Mono', arial, serif;
+    font-weight: normal;
+    color: #CBC947;
 }
