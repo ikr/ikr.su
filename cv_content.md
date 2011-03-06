@@ -74,3 +74,12 @@ Left the position because of a limited period of the Swiss work permit L.
 Tech: `C++, Win32, MFC, SQL, Oracle 8`.
 
 Reference: [Felix Berger](mailto:felix.berger@pdf-tools.com)
+
+### October 2000–September 2001: Auktion24 Development, Novosibirsk
+
+The company is known for creating [ricardo.ch](http://www.ricardo.ch). However, I wasn't in Ricardo
+team, but rather working on something that was supposed to become “the next big thing” for
+the company, but never actually has: [WeTellYou.com](http://www.wetellyou.com/) — a global expert
+advice system, meant to provide a communication platform for people asking questions and giving
+answers — by e-Mail, Chat and Telephone. In addition the site supplied IP-telephony and billing,
+WAP and PDA adaptations.
