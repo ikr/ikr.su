@@ -42,6 +42,8 @@ full-time job. My master's thesis subject was: “Effective RDBMS usage in an ob
 application”. Regarding the curriculum, it was more of the computer science-related courses
 than during the bachelor's program.
 
+Reference: [Dr. Prof. Alexander Marchuk](http://db.iis.nsk.su/structure/personpage.asp?PersonID=54&lang=eng)
+
 ### October 2005–October 2006
 
 I worked as a **PhD Associate** at the [University of Twente](http://trese.cs.utwente.nl/) in
@@ -55,11 +57,20 @@ papers, and too little (almost none) of writing code. While, of course, the educ
 great, and I definitely learned a lot. Thus, in spite of rather promising initial results, I have
 quitted the PhD in favor of a programming job in Switzerland.
 
+Reference: [Prof. Dr. Ir. Mehmet Akşit](http://www.utwente.nl/ewi/trese/people/Aksit/)
+
 ## Professional Experience
 
-### March 2000–September 2000
+### March 2000–September 2000: Glance AG, Zürich
 
-**Glance AG, Zürich.** Worked as a junior programmer on _ActiveFrame_ and it's applications.
-ActiveFrame was a framework for the development of common document flow applications, which engages
-rich data management via an object-oriented database (OO DB). My part was the automatic code
-generator, and the enhancement of some OO DB features.
+Worked as a junior programmer on _ActiveFrame_ and it's applications. ActiveFrame was a framework
+for the development of document automation support programs, which require rich data management. My
+part was the code generator, and the enhancement of some of the object-oriented database features.
+The ActiveFrame application I maintained most of the time was a customer contacts management
+program.
+
+Left the position because of a limited period of the Swiss work permit L.
+
+Tech: `C++, Win32, MFC, SQL, Oracle 8`.
+
+Reference: [Felix Berger](mailto:felix.berger@pdf-tools.com)
