@@ -71,7 +71,7 @@ program.
 
 Left the position because of a limited period of the Swiss work permit L.
 
-Tech: `C++, Win32, MFC, SQL, Oracle 8`.
+Tech: `C++, Win32, MFC, Oracle 8`.
 
 Reference: [Felix Berger](mailto:felix.berger@pdf-tools.com)
 
@@ -91,3 +91,7 @@ Tech: `Java, Linux, Apache JServ, XSLT, Oracle 8, Java RMI`
 
 References: [Gregory Entin](mailto:g.entin@gmail.com),
 [Adrian Pfister](mailto:adrianpfister@gmail.com)
+
+### October 2001–March 2002: iNetLab, Novosibirsk.
+
+Reference: [Alexander Osipov](http://db.iis.nsk.su/structure/personpage.asp?PersonID=138&lang=eng)
