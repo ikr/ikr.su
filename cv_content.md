@@ -14,7 +14,7 @@ able to make their own decisions, and be… alive, sort of.
 
 It was a constant creativity bliss: all those small programs and games I made and hardly ever really
 finished — because I was only 12, and because new shiny ideas appeared faster than I could code.
-Since the very beginning I had no doubts at all that I'll be coding all my life.
+Since the very beginning I had no doubts at all that **I'll be coding all my life**.
 
 ## Education  
 

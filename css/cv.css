@@ -9,14 +9,33 @@ body {
 }
 
 a {
+    color: white;
+}
+
+#go-up {
     color: rgb(97, 206, 60);
 }
 
-h1 {
+@media print {
+    #go-up {
+        display: none;
+    }
+}
+
+h1, h2, h3, h4 {
     color: white;
 }
 
 img {
     float: right;
     border-radius: 20px;;
+}
+
+strong {
+    font-weight: bolder;
+    color: yellow;
+}
+
+code {
+    font-family: 'Droid Sans Mono', arial, serif;
 }
