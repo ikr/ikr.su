@@ -87,6 +87,8 @@ WAP and PDA adaptations.
 I was responsible for the data layer, programmed the chat client, and have built an ad-hoc tasks
 scheduler — crontab appeared to be not good enough for us.
 
+Left the position because the project was declared a financial dead-end and cancelled.
+
 Tech: **Java**, Linux, Apache JServ, XSLT, Oracle 8, Java RMI
 
 References: [Gregory Entin](mailto:g.entin@gmail.com),
