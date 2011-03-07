@@ -3,7 +3,7 @@
 # Resumé
 
 My name is **Ivan Krechetov**. I was born in **1979**, in Novosibirsk, **Russia**. I live in
-Winterthur, **Switzerland**, with my family: a wife and two daughters.
+Winterthur, **Switzerland** with my family: a wife and two daughters.
 
 ## Early years
 
@@ -108,7 +108,7 @@ Reference: [Alexander Osipov](http://db.iis.nsk.su/structure/personpage.asp?Pers
 
 ### April 2002—September 2003: Center of Financial Technologies, Novosibirsk
 
-[The company](http://www.cft.ru) is one of the leaders in providing software and hardware solutions
+The [company](http://www.cft.ru) is one of the leaders in providing software and hardware solutions
 for finance and banking. I worked in the _IBSO_ platform team. IBSO is a banking applications
 platform: proprietary object-oriented programming language translated into Oracle PL/SQL, business
 model designer, screen forms editor, access rights manager, operator's module, and several utility
