@@ -69,11 +69,11 @@ part was the code generator, and the enhancement of some of the object-oriented 
 The ActiveFrame application I maintained most of the time was a customer contacts management
 program.
 
-Left the position because of a limited period of the Swiss work permit L.
-
 Tech: **C++**, Win32, MFC, Oracle.
 
 Reference: [Felix Berger](mailto:felix.berger@pdf-tools.com)
+
+Left the position because of a limited period of the Swiss work permit L.
 
 ### October 2000—September 2001: Auktion24 Development, Novosibirsk
 
@@ -87,12 +87,12 @@ WAP and PDA adaptations.
 I was responsible for the data layer, programmed the chat client, and have built an ad-hoc tasks
 scheduler — crontab appeared to be not good enough for us.
 
-Left the position because the project was declared a financial dead-end, and cancelled.
-
 Tech: **Java**, Linux, Apache JServ, XSLT, Oracle, Java RMI
 
 References: [Gregory Entin](mailto:g.entin@gmail.com),
 [Adrian Pfister](mailto:adrianpfister@gmail.com)
+
+Left the position because the project was declared a financial dead-end, and cancelled.
 
 ### October 2001—March 2002: iNetLab, Novosibirsk.
 
@@ -106,13 +106,17 @@ Tech: **Java** with Java2D and Swing, **C++** on Win32, **Visual Basic 5**
 
 Reference: [Alexander Osipov](http://db.iis.nsk.su/structure/personpage.asp?PersonID=138&lang=eng)
 
+Left the position because the company projects situation wan't stable and too promising, which
+greatly influenced the salary. For me that appeared to be a quick temporary employment after
+Auction24 crash. However, I did like the people, and the work was quite a bit of fun.
+
 ### April 2002—September 2003: Center of Financial Technologies, Novosibirsk
 
-The [company](http://www.cft.ru) is one of the leaders in providing software and hardware solutions
-for finance and banking. I worked in the _IBSO_ platform team. IBSO is a banking applications
-platform: proprietary object-oriented programming language translated into Oracle PL/SQL, business
-model designer, screen forms editor, access rights manager, operator's module, and several utility
-applications.
+The [company](http://www.cft.ru) is one of the leaders in Russia in providing software and hardware
+solutions for finance and banking. I worked in the _IBSO Platform_ team. IBSO is a banking
+applications platform: proprietary object-oriented programming language translated into Oracle
+PL/SQL, business model designer, screen forms editor, access rights manager, operator's module, and
+several utility applications.
 
 I was responsible for the maintenance of the existing IBSO modules, implementation of the new
 features (primarily GUI). Re-engineering, refactoring, integration of the new development concept
@@ -123,10 +127,27 @@ Tech: Oracle, **Visual Basic 6**, **C++** on Win32, COM
 
 Reference: [Anatoly Lisovoy](mailto:A.Lisovoy@cft.ru)
 
+Left the position because of a lucrative offer from XIAG AG, and I thought that in a much smaller
+company, as a project leader, I'll be able to make a difference.
+
 ### October 2003—September 2005: XIAG AG, Novosibirsk
 
-That was my first, and hopefully the last, experience as a **manager**. Not writing any production
-code for 18 months was physically painful in the end. However, I believe I did a pretty decent job
-as a manager. I controlled multiple projects' progress, communicated with customers, and translated
-their concerns into engineers' tasks, evaluated the results, prepared the project proposals for
-potential customers, wrote specifications, interviewed job candidates.
+A custom Web applications development [company](http://www.xiag.ch). That was my first, and
+hopefully the last, experience as a **manager**. Not writing any production code for over a year was
+_physically_ painful in the end. However, I believe I did a pretty decent job as a manager. I
+controlled multiple projects' progress, communicated with customers, and translated their concerns
+into engineers' tasks, evaluated the results, prepared the project proposals for potential
+customers, wrote specifications, interviewed job candidates.
+
+After about a year I became desperate for coding. But I lacked the experience at the time with Web
+programming, and wasn't much inspired by PHP4 language. Luckily, we found a C++ project for me: a
+digital photo prints ordering software. It had a custom look, simple image enhancement features,
+ordering Web GUI integration via an embedded Internet Explorer, network communication with the
+server for the photos upload, writing orders to CD/DVD for sending by post. When released, it was
+downloaded and used by tens of thousands of people.
+
+Tech: **C++** on Win32, WTL/ATL, GDI+
+
+Reference: [Andreas Graf](mailto:andreas.graf@xiag.ch)
+
+Left the position to do PhD in Holland.
