@@ -2,8 +2,9 @@
 
 # Resumé
 
-My name is **Ivan Krechetov**. I was born in **1979**, in Novosibirsk, **Russia**. I live in
-Winterthur, **Switzerland** with my family: a wife and two daughters.
+My name is **Ivan Krechetov**, and I am a **programmer**. I was born in **1979**, in Novosibirsk,
+**Russia**. I live in Winterthur, **Switzerland** with my family: a wife and two daughters. I'm
+fluent in English, and can speak and write casual German.
 
 ## Early years
 
@@ -150,3 +151,7 @@ Tech: **C++** on Win32, WTL/ATL, GDI+
 Reference: [Andreas Graf](mailto:andreas.graf@xiag.ch)
 
 Left the position to do PhD in Holland.
+
+### October 2006—today: XIAG AG, Zürich
+
+Reference: [Andreas Graf](mailto:andreas.graf@xiag.ch)
