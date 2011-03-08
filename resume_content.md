@@ -141,10 +141,11 @@ customers, wrote specifications, interviewed job candidates.
 
 After about a year I became desperate for coding. But I lacked the experience at the time with Web
 programming, and wasn't much inspired by PHP4 language. Luckily, we found a C++ project for me: a
-digital photo prints ordering software. It had a custom look, simple image enhancement features,
-ordering Web GUI integration via an embedded Internet Explorer, network communication with the
-server for the photos upload, writing orders to CD/DVD for sending by post. When released, it was
-downloaded and used by tens of thousands of people.
+digital [photo prints ordering software](http://en.ifolor.ch/ordering_software_en_ch.Ifolor?ActiveID=1388).
+It had a custom look, simple image enhancement features, ordering Web GUI integration via an
+embedded Internet Explorer, network communication with the server for the photos upload, writing
+orders to CD/DVD for sending by post. When released, it was downloaded and used by tens of thousands
+of people.
 
 Tech: **C++** on Win32, WTL/ATL, GDI+
 
@@ -153,5 +154,12 @@ Reference: [Andreas Graf](mailto:andreas.graf@xiag.ch)
 Left the position to do PhD in Holland.
 
 ### October 2006—today: XIAG AG, Zürich
+
+Now I'm working at [XIAG](http://www.xiag.ch/) as a programmer and project leader. I'm interacting
+directly with the customers, specifying and estimating the projects' scope and iterations; I'm
+distributing tasks between up to 4 other team members. But most of the time I'm writing code. I led
+the following Web applications development.
+
+* [Bruker BioSpin Store](http://store.bruker-biospin.com)
 
 Reference: [Andreas Graf](mailto:andreas.graf@xiag.ch)
