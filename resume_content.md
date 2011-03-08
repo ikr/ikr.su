@@ -71,7 +71,7 @@ program.
 
 Tech: **C++**, Win32, MFC, Oracle.
 
-Reference: [Felix Berger](mailto:felix.berger@pdf-tools.com)
+References: [Felix Berger](mailto:felix.berger@pdf-tools.com), [Hans Bärfuss](mailto:hans.baerfuss@pdf-tools.com)
 
 Left the position because of a limited period of the Swiss work permit L.
 
@@ -89,8 +89,7 @@ scheduler — crontab appeared to be not good enough for us.
 
 Tech: **Java**, Linux, Apache JServ, XSLT, Oracle, Java RMI
 
-References: [Gregory Entin](mailto:g.entin@gmail.com),
-[Adrian Pfister](mailto:adrianpfister@gmail.com)
+References: [Gregory Entin](mailto:g.entin@gmail.com), [Adrian Pfister](mailto:adrianpfister@gmail.com)
 
 Left the position because the project was declared a financial dead-end, and cancelled.
 
