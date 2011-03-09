@@ -160,25 +160,35 @@ directly with the customers, specifying and estimating the projects' scope and i
 defining tasks for up to 4 other team members. But most of the time I'm writing code. I led the
 following Web applications' development from scratch.
 
-* [Smile-o-meter](http://smile-o-meter.vns6.xiag.ch/). Surveying the employees'
+* [Smile-o-meter](http://smile-o-meter.vns6.xiag.ch/). An app for surveying the employees'
 [satisfaction](img/smile-o-meter.png), and soliciting feedback.
 
 * [Bruker BioSpin store](http://store.bruker-biospin.com). Online store of the scientific lab
 equipment.
 
-* [STC B2B tool](https://trade.stc.ch).
+* [STC B2B tool](https://trade.stc.ch). Hotel stay bundles booking platform used by travel agencies
+partnering with [Switzerland Travel Centre](http://www.stc.ch/).
 
 * Job portals [Ostjob.ch](http://ostjob.ch) and [Zentraljob.ch](http://zentraljob.ch).
 
-I also maintained or implemented new features for the following applications.
+Tech: **PHP**, Zend Framework, **JavaScript**, CSS, Apache, nginx, Linux, PostgreSQL, sqlite, Sphinx
+search, SOAP
+
+I also maintained, or implemented new features for the following applications.
 
 * ifolor prints [ordering software](http://en.ifolor.ch/ordering_software_en_ch.Ifolor?ActiveID=1388)
 for Windows.
 
-* [Engadin booking](https://www.engadinbooking.ch/).
+* [Engadin booking](https://www.engadinbooking.ch/). An iFrame-able GUI for booking hotels, using an
+external Web-service.
 
 * [Engadin valley tourism portal](http://www.engadin.stmoritz.ch).
 
-* Older version of [Interhome Web statistics](https://webstats.interhome.com) reports.
+* Older version of [Interhome Web statistics](https://webstats.interhome.com) reports. Aggregating
+and reporting the sales figures for the holiday apartments provided by [Interhome](http://www.interhome.ch/).  
+
+* A file upload Java Applet for an unknown site.
+
+Tech: PHP, JavaScript, CSS, C++, C#/ASP.NET, Java, Apache, Linux, PostgreSQL, MySQL
 
 Reference: [Andreas Graf](mailto:andreas.graf@xiag.ch)
