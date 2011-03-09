@@ -141,11 +141,11 @@ customers, wrote specifications, interviewed job candidates.
 
 After about a year I became desperate for coding. But I lacked the experience at the time with Web
 programming, and wasn't much inspired by PHP4 language. Luckily, we found a C++ project for me: a
-digital [photo prints ordering software](http://en.ifolor.ch/ordering_software_en_ch.Ifolor?ActiveID=1388).
-It had a custom look, simple image enhancement features, ordering Web GUI integration via an
-embedded Internet Explorer, network communication with the server for the photos upload, writing
-orders to CD/DVD for sending by post. When released, it was downloaded and used by tens of thousands
-of people.
+digital photo prints [ordering software](http://en.ifolor.ch/ordering_software_en_ch.Ifolor?ActiveID=1388)
+for Microsoft Windows. It had a custom look, simple image enhancement features, ordering Web GUI
+integration via an embedded Internet Explorer, network communication with the server for the photos
+upload, writing orders to CD/DVD for sending by post. When released, it was downloaded and used by
+tens of thousands of people.
 
 Tech: **C++** on Win32, WTL/ATL, GDI+
 
@@ -157,9 +157,28 @@ Left the position to do PhD in Holland.
 
 Now I'm working at [XIAG](http://www.xiag.ch/) as a programmer and project leader. I'm interacting
 directly with the customers, specifying and estimating the projects' scope and iterations; I'm
-distributing tasks between up to 4 other team members. But most of the time I'm writing code. I led
-the following Web applications development.
+defining tasks for up to 4 other team members. But most of the time I'm writing code. I led the
+following Web applications' development from scratch.
 
-* [Bruker BioSpin Store](http://store.bruker-biospin.com)
+* [Smile-o-meter](http://smile-o-meter.vns6.xiag.ch/). Surveying the employees'
+[satisfaction](img/smile-o-meter.png), and soliciting feedback.
+
+* [Bruker BioSpin store](http://store.bruker-biospin.com). Online store of the scientific lab
+equipment.
+
+* [STC B2B tool](https://trade.stc.ch).
+
+* Job portals [Ostjob.ch](http://ostjob.ch) and [Zentraljob.ch](http://zentraljob.ch).
+
+I also maintained or implemented new features for the following applications.
+
+* ifolor prints [ordering software](http://en.ifolor.ch/ordering_software_en_ch.Ifolor?ActiveID=1388)
+for Windows.
+
+* [Engadin booking](https://www.engadinbooking.ch/).
+
+* [Engadin valley tourism portal](http://www.engadin.stmoritz.ch).
+
+* Older version of [Interhome Web statistics](https://webstats.interhome.com) reports.
 
 Reference: [Andreas Graf](mailto:andreas.graf@xiag.ch)
