@@ -219,3 +219,22 @@ and reporting the sales figures for the holiday apartments provided by [Interhom
 Tech: PHP, JavaScript, CSS, C++, C#/ASP.NET, Java, Apache, Linux, PostgreSQL, MySQL
 
 Reference: [Andreas Graf](mailto:andreas.graf@xiag.ch)
+
+## Skills
+
+* Clean code.
+
+* I'm a test-driven development practitioner.
+
+* I follow [SOLID](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod) principles of
+object-oriented design, which mix quite well with [DRY](http://en.wikipedia.org/wiki/Don%27t_repeat_yourself),
+[YAGNI](http://en.wikipedia.org/wiki/You_ain't_gonna_need_it), and [KISS](http://en.wikipedia.org/wiki/KISS_principle).
+
+* I'm a functional programming enthusiast, being aware of dangers of _The State_, and understanding
+that not everything has to be an object.
+
+* Programming languages I used professionally; sorted by my fluency as of [today](#timestamp): best
+known — first, less known — last:
+    1. PHP
+    2. C++
+    3. JavaScript

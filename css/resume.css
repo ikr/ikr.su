@@ -35,3 +35,9 @@ strong {
     font-weight: normal;
     color: #CBC947;
 }
+
+#timestamp {
+    text-align: right;
+    font-style: italic;
+    font-size: 10pt;
+}
