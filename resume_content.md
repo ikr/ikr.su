@@ -60,6 +60,33 @@ quitted the PhD in favor of a programming job in Switzerland.
 
 Reference: [Prof. Dr. Ir. Mehmet Akşit](http://www.utwente.nl/ewi/trese/people/Aksit/)
 
+## Publications
+
+* I. Krechetov. Relational Data Storage Support in an Object-Oriented Application. / Abstracts of
+international conference of young scientists "Mathematical modeling and information technologies",
+Novosibirsk, 2002, pp. 61 - 61.
+
+* I. Krechetov. The Automated Building of SQL Queries for Object Data. / IIS SBRAS Preprint,
+vol. 118, Novosibirsk, 2004, 27 p.
+
+* I. Krechetov. Introduction of a Universal Persistence Layer for a Visual Basic Applications
+Suite. / Abstracts of conference-and-contest of students, post- graduates and young scientists
+"Microsoft technologies in informatics and programming", Novosibirsk, 2005, pp. 77 - 78.
+
+* I. Krechetov et al. Initial Version of Aspect-Oriented Architecture Design Approach. /
+AOSD-Europe NoE technical report D37, University of Twente, 2006, pp 1-57.
+
+* I. Krechetov et al. Towards an Integrated Aspect-Oriented Modeling Approach for Software
+Architecture Design. / 8th International Workshop on Aspect-Oriented Modeling at AOSD Conference,
+March 2006, Bonn, Germany.
+
+## Teaching and presentations
+
+* Novosibirsk State University, 1st semester, 2001: seminars, selected lectures and exams for the
+course “UML, The Unified Modeling Language”.
+
+* JSZurich user group [presentation](http://techup.ch/162): Street Magic with Functions.
+
 ## Professional Experience
 
 ### March 2000—September 2000: Glance AG, Zürich
@@ -192,23 +219,3 @@ and reporting the sales figures for the holiday apartments provided by [Interhom
 Tech: PHP, JavaScript, CSS, C++, C#/ASP.NET, Java, Apache, Linux, PostgreSQL, MySQL
 
 Reference: [Andreas Graf](mailto:andreas.graf@xiag.ch)
-
-## Publications
-
-1. I. Krechetov. Relational Data Storage Support in an Object-Oriented Application. / Abstracts of
-international conference of young scientists "Mathematical modeling and information technologies",
-Novosibirsk, 2002, pp. 61 - 61.
-
-1. I. Krechetov. The Automated Building of SQL Queries for an Object Data. / IIS SBRAS Preprint,
-vol. 118, Novosibirsk, 2004, 27 p.
-
-1. I. Krechetov. Introduction of a Universal Persistence Layer for a Visual Basic Applications
-Suite. / Abstracts of conference-and-contest of students, post- graduates and young scientists
-"Microsoft technologies in informatics and programming", Novosibirsk, 2005, pp. 77 - 78.
-
-1. I. Krechetov et al. Initial Version of Aspect-Oriented Architecture Design Approach. /
-AOSD-Europe NoE technical report D37, University of Twente, 2006, pp 1-57.
-
-1. I. Krechetov et al. Towards an Integrated Aspect-Oriented Modeling Approach for Software
-Architecture Design. / 8th International Workshop on Aspect-Oriented Modeling at AOSD Conference,
-March 2006, Bonn, Germany.
