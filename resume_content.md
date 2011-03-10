@@ -22,15 +22,15 @@ Since the very beginning I had no doubts at all that **I'll be coding all my lif
 ### 1996—2001
 
 I've obtained a **Bachelor's degree** from [Novosibirsk State University](http://www.nsu.ru) (NSU),
-having graduated with honors, with **100% excellent** grades in the diploma, which makes me **one of
-the top-2% students**.
+graduated with honors, with **100% excellent** grades in the diploma, which makes me **one of the
+top-2% students**.
 
 I studied at the department of mechanics and mathematics. We had _a lot_ of Math: mathematical
 analysis, theory of functions of a complex variable, mathematical logic, abstract algebra,
 computation methods, discrete mathematics, probability and statistics, you name it. Basically, the
 curriculum was: all the Math imaginable + gym class.
 
-In the last two years I was doing a research at the chair of programming. My qualification work
+In the last two years I did the research work at the chair of programming. My qualification work
 subject was “Forming the object-oriented data structures tailor-made for the search tasks”. In
 essence that was a rather simplistic exploration of how one would go about building an
 object-oriented database.
@@ -101,7 +101,7 @@ Tech: **C++**, Win32, MFC, Oracle.
 
 References: [Felix Berger](mailto:felix.berger@pdf-tools.com), [Hans Bärfuss](mailto:hans.baerfuss@pdf-tools.com)
 
-Left the position because of a limited period of the Swiss work permit L.
+Left the position because of the limited period of the Swiss work permit L.
 
 ### October 2000—September 2001: Auktion24 Development, Novosibirsk
 
@@ -109,7 +109,7 @@ The company is known for creating [ricardo.ch](http://www.ricardo.ch). However, 
 team, but rather working on something that was supposed to become “the next big thing” for
 the company, but never actually has: [WeTellYou.com](http://www.wetellyou.com/) — a global expert
 advice system, meant to provide a communication platform for people asking questions and giving
-answers — by e-Mail, Chat and Telephone. In addition the site supplied IP-telephony and billing,
+answers — via Web, e-mail, chat and telephone. The application supplied IP-telephony and billing,
 WAP and PDA adaptations.
 
 I was responsible for the data layer, programmed the chat client, and have built an ad-hoc tasks
@@ -135,7 +135,7 @@ Reference: [Alexander Osipov](http://db.iis.nsk.su/structure/personpage.asp?Pers
 
 Left the position because the company projects situation wan't stable and too promising, which
 greatly influenced the salary. For me that appeared to be a quick temporary employment after
-Auction24 crash. However, I did like the people, and the work was quite a bit of fun.
+Auktion24 crash. However, I did like the people, and the work was quite a bit of fun.
 
 ### April 2002—September 2003: Center of Financial Technologies, Novosibirsk
 
@@ -155,7 +155,7 @@ Tech: Oracle, **Visual Basic 6**, **C++** on Win32, COM
 Reference: [Anatoly Lisovoy](mailto:A.Lisovoy@cft.ru)
 
 Left the position because of a lucrative offer from XIAG AG, and I thought that in a much smaller
-company, as a project leader, I'll be able to make a difference.
+company, as a project leader, I'll be able to make the difference.
 
 ### October 2003—September 2005: XIAG AG, Novosibirsk
 
@@ -246,8 +246,8 @@ object-oriented design, which mix quite well with [DRY](http://en.wikipedia.org/
 * I'm a functional programming enthusiast, being aware of dangers of _The State_, and understanding
 that not everything has to be an object.
 
-* Programming languages I used professionally; sorted by my fluency as of [today](#timestamp): best
-known — first, less known — last:
+* Programming languages I used professionally; sorted by my fluency as of _today_: best known —
+first, less known — last:
     1. PHP
     1. C++
     1. JavaScript
