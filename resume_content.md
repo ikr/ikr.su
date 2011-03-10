@@ -25,7 +25,7 @@ I've obtained a **Bachelor's degree** from [Novosibirsk State University](http:/
 graduated with honors, with **100% excellent** grades in the diploma, which makes me **one of the
 top-2% students**.
 
-I studied at the department of mechanics and mathematics. We had _a lot_ of Math: mathematical
+I studied at the department of mechanics and mathematics. We had _a lot_ of **Math**: mathematical
 analysis, theory of functions of a complex variable, mathematical logic, abstract algebra,
 computation methods, discrete mathematics, probability and statistics, you name it. Basically, the
 curriculum was: all the Math imaginable + gym class.
@@ -33,15 +33,15 @@ curriculum was: all the Math imaginable + gym class.
 In the last two years I did the research work at the chair of programming. My qualification work
 subject was “Forming the object-oriented data structures tailor-made for the search tasks”. In
 essence that was a rather simplistic exploration of how one would go about building an
-object-oriented database.
+**object-oriented database**.
 
 ### 2001—2003
 
 I continued at NSU, the same department and chair, and obtained a **Master's degree**, again
 **with honors**; however, the grades weren't that maxed-out anymore, as I already had in parallel a
 full-time job. My master's thesis subject was: “Effective RDBMS usage in an object-oriented
-application”. Regarding the curriculum, it was more of the computer science-related courses
-than during the bachelor's program.
+application” — exploration on the topic of **object-relational mapping**. Regarding the curriculum,
+it was more of the **computer science**-related courses than during the bachelor's program.
 
 Reference: [Dr. Prof. Alexander Marchuk](http://db.iis.nsk.su/structure/personpage.asp?PersonID=54&lang=eng)
 
@@ -49,14 +49,14 @@ Reference: [Dr. Prof. Alexander Marchuk](http://db.iis.nsk.su/structure/personpa
 
 I worked as a **PhD Associate** at the [University of Twente](http://trese.cs.utwente.nl/) in
 Enschede, The **Netherlands**. My subject was: “Aspectual Refactoring of Software Architectures” —
-research in the field of aspect-oriented software development: separation of concerns, architectural
-aspects, architectural styles, software architecture design process, formalized evaluation and
-refactoring.
+research in the field of **aspect-oriented** software development: **separation of concerns**,
+architectural aspects, architectural styles, software architecture design process, formalized
+evaluation and refactoring.
 
 Unfortunately, PhD research work didn't quite meet my expectations. It was too much of writing
 papers, and too little (almost none) of writing code. While, of course, the educational value was
 great, and I definitely learned a lot. Thus, in spite of rather promising initial results, I have
-quitted the PhD in favor of a programming job in Switzerland.
+**quit** the PhD in favor of a programming job in Switzerland.
 
 Reference: [Prof. Dr. Ir. Mehmet Akşit](http://www.utwente.nl/ewi/trese/people/Aksit/)
 
@@ -92,7 +92,7 @@ course “UML, The Unified Modeling Language”.
 ### March 2000—September 2000: Glance AG, Zürich
 
 Worked as a junior programmer on _ActiveFrame_ and it's applications. ActiveFrame was a framework
-for the development of document automation support programs, which require rich data management. My
+for the development of **document flow** support programs, which require rich data management. My
 part was the code generator, and the enhancement of some of the object-oriented database features.
 The ActiveFrame application I maintained most of the time was a customer contacts management
 program.
@@ -107,8 +107,8 @@ Left the position because of the limited period of the Swiss work permit L.
 
 The company is known for creating [ricardo.ch](http://www.ricardo.ch). However, I wasn't in Ricardo
 team, but rather working on something that was supposed to become “the next big thing” for
-the company, but never actually has: [WeTellYou.com](http://www.wetellyou.com/) — a global expert
-advice system, meant to provide a communication platform for people asking questions and giving
+the company, but never actually has: [WeTellYou.com](http://www.wetellyou.com/) — a global **expert
+advice system**, meant to provide a communication platform for people asking questions and giving
 answers — via Web, e-mail, chat and telephone. The application supplied IP-telephony and billing,
 WAP and PDA adaptations.
 
@@ -123,7 +123,7 @@ Left the position because the project was declared a financial dead-end, and can
 
 ### October 2001—March 2002: iNetLab, Novosibirsk.
 
-* Developed a program for visual modeling in the field of seismic geophysics: drawing the earth and
+* Developed a program for visual modeling in the field of **seismic geophysics**: drawing the earth and
 water layers, and assigning their attributes. Ultimately, the model is exported for computation
 handled by a different program.
 
@@ -140,7 +140,7 @@ Auktion24 crash. However, I did like the people, and the work was quite a bit of
 ### April 2002—September 2003: Center of Financial Technologies, Novosibirsk
 
 The [company](http://www.cft.ru) is one of the leaders in Russia in providing software and hardware
-solutions for finance and banking. I worked in the _IBSO Platform_ team. IBSO is a banking
+solutions for **finance and banking**. I worked in the _IBSO Platform_ team. IBSO is a banking
 applications platform: proprietary object-oriented programming language translated into Oracle
 PL/SQL, business model designer, screen forms editor, access rights manager, operator's module, and
 several utility applications.
@@ -148,7 +148,7 @@ several utility applications.
 I was responsible for the maintenance of the existing IBSO modules, implementation of the new
 features (primarily GUI). Re-engineering, refactoring, integration of the new development concept
 into the “old” code. Did the analysis, design, prototyping and implementation of the common
-persistence layer for the IBSO client modules.
+**persistence layer** for the IBSO client modules.
 
 Tech: Oracle, **Visual Basic 6**, **C++** on Win32, COM
 
@@ -168,11 +168,11 @@ customers, wrote specifications, interviewed job candidates.
 
 After about a year I became desperate for coding. But I lacked the experience at the time with Web
 programming, and wasn't much inspired by PHP4 language. Luckily, we found a C++ project for me: a
-digital photo prints [ordering software](http://en.ifolor.ch/ordering_software_en_ch.Ifolor?ActiveID=1388)
+**digital photo prints** [ordering software](http://en.ifolor.ch/ordering_software_en_ch.Ifolor?ActiveID=1388)
 for Microsoft Windows. It had a custom look, simple image enhancement features, ordering Web GUI
 integration via an embedded Internet Explorer, network communication with the server for the photos
-upload, writing orders to CD/DVD for sending by post. When released, it was downloaded and used by
-tens of thousands of people.
+upload, writing orders to CD/DVD for sending by post. When released, it was downloaded and **used by
+tens of thousands of people**.
 
 Tech: **C++** on Win32, WTL/ATL, GDI+
 
@@ -182,10 +182,10 @@ Left the position to do PhD in Holland.
 
 ### October 2006—today: XIAG AG, Zürich
 
-Now I'm working at [XIAG](http://www.xiag.ch/) as a programmer and project leader. I'm interacting
-directly with the customers, specifying and estimating the projects' scope and iterations; I'm
-defining tasks for up to 4 other team members. But most of the time I'm writing code. I led the
-following Web applications' development from scratch.
+Now I'm working at [XIAG](http://www.xiag.ch/) as a **programmer and project leader**. I'm
+interacting directly with the customers, specifying and estimating the projects' scope and
+iterations; I'm defining tasks for up to 4 other team members. But most of the time I'm writing
+code. I led the following Web applications' development from scratch.
 
 * [Smile-o-meter](http://smile-o-meter.vns6.xiag.ch/). An app for surveying the employees'
 [satisfaction](img/smile-o-meter.png), and soliciting feedback.
