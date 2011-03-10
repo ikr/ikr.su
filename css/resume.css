@@ -6,28 +6,33 @@ body {
     background-color: rgb(14, 16, 38);
     color: rgb(200, 200, 200);
     padding: 1em 8em 4em 8em;
+    line-height: 1.5;
 }
 
 a {
     color: white;
 }
 
-#go-up {
+#go-up-a {
     color: rgb(97, 206, 60);
 }
 
-@media print {
-    #go-up {
-        display: none;
-    }
+#go-up-p {
+    margin-bottom: 3em;
 }
 
 h1, h2, h3, h4 {
     color: white;
 }
 
-img {
+#photo-div {
     float: right;
+    padding-left: 2em;
+    padding-top: 2em;
+    padding-right: 0.5em;
+}
+
+#photo-div img {
     border-radius: 10px;
 }
 
@@ -40,4 +45,6 @@ strong {
     text-align: right;
     font-style: italic;
     font-size: 10pt;
+    padding-top: 2em;
+    padding-bottom: 4em;
 }

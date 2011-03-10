@@ -1,5 +1,3 @@
-![IKR](img/ikr.jpg "Ivan Krechetov")
-
 # Resumé
 
 My name is **Ivan Krechetov**, and I am a **programmer**. I was born in **1979**, in Novosibirsk,

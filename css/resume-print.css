@@ -1,0 +1,33 @@
+body {
+    margin: auto;
+    width: 800px;
+    font-family: Verdana;
+    font-size: 12pt;
+    color: black;
+    padding: 1em 8em 4em 8em;
+    line-height: 1.5;
+}
+
+#photo-div {
+    float: right;
+    padding-left: 2em;
+    padding-top: 2em;
+    padding-right: 0.5em;
+}
+
+#photo-div img {
+    border-radius: 10px;
+}
+
+strong {
+    font-weight: normal;
+    color: red;
+}
+
+#go-up-p {
+    display: none;
+}
+
+#timestamp {
+    display: none;
+}
