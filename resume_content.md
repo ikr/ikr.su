@@ -216,15 +216,28 @@ and reporting the sales figures for the holiday apartments provided by [Interhom
 
 * A file upload Java Applet for an unknown site.
 
-Tech: PHP, JavaScript, CSS, C++, C#/ASP.NET, Java, Apache, Linux, PostgreSQL, MySQL
+Tech: PHP, JavaScript, CSS, C++, C#/ASP.NET, Java, Apache, Linux, PostgreSQL, MySQL, MS SQL Server
 
 Reference: [Andreas Graf](mailto:andreas.graf@xiag.ch)
+
+## Other small projects
+
+* Miranda IM [plug-in](https://github.com/ikr/CyrTranslit)
+
+* Difference schemes for differential equations, Monte-Carlo methods, Genetic algorithms, Neural
+networks (C, C++, Pascal, Delphi)
+
+* Physical process modeling (ANSI C)
+
+* 3D graphics – Displaying the linear and quadric primitives (C++)
 
 ## Skills
 
 * Clean code.
 
 * I'm a test-driven development practitioner.
+
+* Deep knowledge of object-oriented analysis and design, awareness of software design patterns.
 
 * I follow [SOLID](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod) principles of
 object-oriented design, which mix quite well with [DRY](http://en.wikipedia.org/wiki/Don%27t_repeat_yourself),
@@ -236,5 +249,19 @@ that not everything has to be an object.
 * Programming languages I used professionally; sorted by my fluency as of [today](#timestamp): best
 known — first, less known — last:
     1. PHP
-    2. C++
-    3. JavaScript
+    1. C++
+    1. JavaScript
+    1. Java
+    1. Visual Basic 6
+    1. C#
+    
+* Other programming languages I used for fun and education: C, Scheme, Clojure, Ruby, Pascal,
+x86 Assembler, Prolog.
+
+* Yes, I also know SQL, a bit of PL/pgSQL, HTML, some CSS, and XSL.
+
+* Databases used: PostgreSQL, MySQL, sqlite, Oracle, MS SQL Server, CouchDB.
+
+* Version control systems used: Git, Subversion, CVS, Team Foundation Server, Visual Source Safe
+
+* Literate writing in English and Russian, good communication skills.
