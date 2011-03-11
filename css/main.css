@@ -3,7 +3,7 @@ html {
 }
 
 body {
-    font-family: 'Droid Sans Mono', arial, serif;
+    font-family: 'Droid Sans Mono', Courier, serif;
     font-size: 14pt;
     background-color: rgb(25, 26, 49);
     min-height: 32em;
