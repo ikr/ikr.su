@@ -31,3 +31,7 @@ strong {
 #timestamp {
     display: none;
 }
+
+#github-ribbon {
+    display: none;
+}
