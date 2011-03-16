@@ -1,6 +1,6 @@
 # Resumé
 
-My name is **Ivan Krechetov**, and I am a **programmer**. I was born in **1979**, in Novosibirsk,
+My name is **Ivan Krechetov**, and I'm a **programmer**. I was born in **1979**, in Novosibirsk,
 **Russia**. I live in Winterthur, **Switzerland** with my family: a wife and two daughters. I'm
 fluent in English, and can speak and write casual German.
 
