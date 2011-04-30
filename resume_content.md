@@ -15,7 +15,7 @@ It was a constant creativity bliss: all those small programs and games I made an
 finished — because I was only 12, and because new shiny ideas appeared faster than I could code.
 Since the very beginning I had no doubts at all that **I'll be coding all my life**.
 
-## Education  
+## Education
 
 ### 1996—2001
 
@@ -210,7 +210,7 @@ external Web-service.
 * [Engadin valley tourism portal](http://www.engadin.stmoritz.ch).
 
 * Older version of [Interhome Web statistics](https://webstats.interhome.com) reports. Aggregating
-and reporting the sales figures for the holiday apartments provided by [Interhome](http://www.interhome.ch/).  
+and reporting the sales figures for the holiday apartments provided by [Interhome](http://www.interhome.ch/).
 
 * A file upload Java Applet for an unknown site.
 
@@ -252,7 +252,7 @@ first, less known — last:
     1. Java
     1. Visual Basic 6
     1. C#
-    
+
 * Other programming languages I used for fun and education: C, Scheme, Clojure, Ruby, Pascal,
 x86 Assembler, Prolog.
 
