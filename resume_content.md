@@ -83,7 +83,9 @@ March 2006, Bonn, Germany.
 * Novosibirsk State University, 1st semester, 2001: seminars, selected lectures and exams for the
 course “UML, The Unified Modeling Language”.
 
-* JSZurich user group [presentation](http://techup.ch/162): Street Magic with Functions.
+* JSZurich user group [presentation](http://vimeo.com/21795367) “Street Magic with Functions”.
+
+* WebTuesday Zurich [lightning talk](http://vimeo.com/25572899) “7 Deadly Sins in Unit Testing”.
 
 ## Professional Experience
 
