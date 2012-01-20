@@ -196,10 +196,11 @@ equipment.
 * [STC B2B tool](https://trade.stc.ch). Hotel stay bundles booking platform used by travel agencies
 partnering with [Switzerland Travel Centre](http://www.stc.ch/).
 
-* Job portals [Ostjob.ch](http://ostjob.ch) and [Zentraljob.ch](http://zentraljob.ch).
+* Job portals [NZZexecutive.ch](http://www.nzzexecutive.ch/), [Ostjob.ch](http://ostjob.ch) and
+[Zentraljob.ch](http://zentraljob.ch).
 
-Tech: **PHP**, Zend Framework, **JavaScript**, CSS, Apache, nginx, Linux, PostgreSQL, sqlite, Sphinx
-search, SOAP
+Tech: **PHP**, Zend Framework, **JavaScript**, jQuery, CSS, Apache, nginx, Linux, PostgreSQL,
+sqlite, Sphinx search, SOAP
 
 I also maintained, or implemented new features for the following applications.
 
