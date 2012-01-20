@@ -41,6 +41,8 @@
 
     <!-- converted markdown end -->
 
-    <p id="timestamp">25.06.2011</p>
+    <p id="timestamp">
+        <?php echo date('d.m.Y') ?>
+    </p>
 </body>
 </html>
