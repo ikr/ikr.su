@@ -201,7 +201,7 @@ partnering with [Switzerland Travel Centre](http://www.stc.ch/).
 * Job portals [jobs.nzz.ch](http://jobs.nzz.ch/), [Ostjob.ch](http://ostjob.ch) and
 [Zentraljob.ch](http://zentraljob.ch).
 
-* Hotels booking engine of STC/[MySwitzerland](http://www.myswitzerland.com) --
+* Hotels booking engine of STC/[MySwitzerland](http://www.myswitzerland.com) –
   [www.swiss-hotels.com](https://www.swiss-hotels.com).
 
 Tech: **PHP**, Silex, Zend Framework, **JavaScript**, Node.js, Backbone.js, AngularJS, jQuery, CSS,
@@ -211,7 +211,7 @@ I also maintained, or implemented new features for the following applications.
 
 * ifolor prints [ordering software](http://www.ifolor.ch/en/downloads) for Windows.
 
-* EngadinBooking.ch (retired) -- an iFrame-able GUI for booking hotels, using an external
+* EngadinBooking.ch (retired) – an iFrame-able GUI for booking hotels, using an external
 Web-service.
 
 * [Engadin valley tourism portal](http://www.engadin.stmoritz.ch).
