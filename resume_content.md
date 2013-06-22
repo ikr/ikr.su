@@ -205,7 +205,7 @@ partnering with [Switzerland Travel Centre](http://www.stc.ch/).
   [www.swiss-hotels.com](https://www.swiss-hotels.com).
 
 Tech: **PHP**, Silex, Zend Framework, **JavaScript**, Node.js, Backbone.js, AngularJS, jQuery, CSS,
-Apache, nginx, Linux, CouchDB, PostgreSQL, sqlite, Sphinx search, SOAP
+Apache, nginx, Linux, SaltStack SCM, SOA, CouchDB, PostgreSQL, sqlite, Sphinx search, SOAP
 
 I also maintained, or implemented new features for the following applications.
 
@@ -242,7 +242,8 @@ networks (C, C++, Pascal, Delphi)
 
 * I'm a test-driven development practitioner.
 
-* Deep knowledge of object-oriented analysis and design, awareness of software design patterns.
+* Deep knowledge of object-oriented analysis and design, awareness of software design and
+  architecture patterns.
 
 * I follow [SOLID](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod) principles of
 object-oriented design, which mix quite well with [DRY](http://en.wikipedia.org/wiki/Don%27t_repeat_yourself),
