@@ -1,8 +1,7 @@
 # Resumé
 
 My name is **Ivan Krechetov**, and I'm a **programmer**. I was born in **1979**, in Novosibirsk,
-**Russia**. I live in Winterthur, **Switzerland** with my family: a wife and two daughters. I'm
-fluent in English, and can speak and write casual German.
+**Russia**. I live in Winterthur, **Switzerland** with my family: a wife and two daughters.
 
 ## Early years
 
@@ -83,9 +82,12 @@ March 2006, Bonn, Germany.
 * Novosibirsk State University, 1st semester, 2001: seminars, selected lectures and exams for the
 course “UML, The Unified Modeling Language”.
 
-* JSZurich user group [presentation](http://vimeo.com/21795367) “Street Magic with Functions”.
+* JSZurich user group [presentation](http://vimeo.com/21795367) "Street Magic with Functions".
 
-* WebTuesday Zurich [lightning talk](http://vimeo.com/25572899) “7 Deadly Sins in Unit Testing”.
+* WebTuesday Zurich [lightning talk](http://vimeo.com/25572899) "7 Deadly Sins in Unit Testing".
+
+* Zurich Frontend Conference 2012 [lightning talk](https://github.com/ikr/rise-against-the-state)
+  "Rise against the state".
 
 ## Professional Experience
 
@@ -196,32 +198,34 @@ equipment.
 * [STC B2B tool](https://trade.stc.ch). Hotel stay bundles booking platform used by travel agencies
 partnering with [Switzerland Travel Centre](http://www.stc.ch/).
 
-* Job portals [NZZexecutive.ch](http://www.nzzexecutive.ch/), [Ostjob.ch](http://ostjob.ch) and
+* Job portals [jobs.nzz.ch](http://jobs.nzz.ch/), [Ostjob.ch](http://ostjob.ch) and
 [Zentraljob.ch](http://zentraljob.ch).
 
-Tech: **PHP**, Zend Framework, **JavaScript**, jQuery, CSS, Apache, nginx, Linux, PostgreSQL,
-sqlite, Sphinx search, SOAP
+* Hotels booking engine of STC/[MySwitzerland](http://www.myswitzerland.com) --
+  [www.swiss-hotels.com](https://www.swiss-hotels.com).
+
+Tech: **PHP**, Silex, Zend Framework, **JavaScript**, Node.js, Backbone.js, AngularJS, jQuery, CSS,
+Apache, nginx, Linux, CouchDB, PostgreSQL, sqlite, Sphinx search, SOAP
 
 I also maintained, or implemented new features for the following applications.
 
-* ifolor prints [ordering software](http://en.ifolor.ch/ordering_software_en_ch.Ifolor?ActiveID=1388)
-for Windows.
+* ifolor prints [ordering software](http://www.ifolor.ch/en/downloads) for Windows.
 
-* [Engadin booking](https://www.engadinbooking.ch/). An iFrame-able GUI for booking hotels, using an
-external Web-service.
+* EngadinBooking.ch (retired) -- an iFrame-able GUI for booking hotels, using an external
+Web-service.
 
 * [Engadin valley tourism portal](http://www.engadin.stmoritz.ch).
 
 * Older version of [Interhome Web statistics](https://webstats.interhome.com) reports. Aggregating
 and reporting the sales figures for the holiday apartments provided by [Interhome](http://www.interhome.ch/).
 
-* A file upload Java Applet for an unknown site.
+* A file upload Java Applet for a Web site.
 
 Tech: PHP, JavaScript, CSS, C++, C#/ASP.NET, Java, Apache, Linux, PostgreSQL, MySQL, MS SQL Server
 
 Reference: [Andreas Graf](mailto:andreas.graf@xiag.ch)
 
-## Other small projects
+## Other small projects (pre-[GitHub](https://github.com/ikr/) times)
 
 * Miranda IM [plug-in](https://github.com/ikr/CyrTranslit)
 
@@ -250,19 +254,20 @@ that not everything has to be an object.
 * Programming languages I used professionally; sorted by my fluency as of _today_: best known —
 first, less known — last:
     1. PHP
-    1. C++
     1. JavaScript
+    1. C++
     1. Java
     1. Visual Basic 6
     1. C#
 
-* Other programming languages I used for fun and education: C, Scheme, Clojure, Ruby, Pascal,
-x86 Assembler, Prolog.
+* Other programming languages I used for fun and education: C, Scheme, Clojure, Erlang, Haskell,
+Ruby, Pascal, x86 Assembler, Prolog.
 
 * Yes, I also know SQL, a bit of PL/pgSQL, HTML, some CSS, and XSL.
 
-* Databases used: PostgreSQL, MySQL, sqlite, Oracle, MS SQL Server, CouchDB.
+* Databases used: CouchDB, PostgreSQL, MySQL, sqlite, Oracle, MS SQL Server.
 
 * Version control systems used: Git, Subversion, CVS, Team Foundation Server, Visual Source Safe
 
-* Literate writing in English and Russian, good communication skills.
+* Literate writing in English and Russian, good communication skills. Spoken languages: Russian
+  (native), English (fluent), German (B1)
