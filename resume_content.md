@@ -202,7 +202,10 @@ partnering with [Switzerland Travel Centre](http://www.stc.ch/).
 [Zentraljob.ch](http://zentraljob.ch).
 
 * Hotels booking engine of STC/[MySwitzerland](http://www.myswitzerland.com) –
-  [www.swiss-hotels.com](https://www.swiss-hotels.com).
+[www.swiss-hotels.com](https://www.swiss-hotels.com).
+
+* Objects registration and tracking [application](http://ktm.homewinner.ch/) for
+[Homewinner](http://www.homewinner.ch) — a real estate agency.
 
 Tech: **PHP**, Silex, Zend Framework, **JavaScript**, Node.js, Backbone.js, AngularJS, jQuery, CSS,
 Apache, nginx, Linux, SaltStack SCM, SOA, CouchDB, PostgreSQL, sqlite, Sphinx search, SOAP
@@ -223,7 +226,7 @@ and reporting the sales figures for the holiday apartments provided by [Interhom
 
 Tech: PHP, JavaScript, CSS, C++, C#/ASP.NET, Java, Apache, Linux, PostgreSQL, MySQL, MS SQL Server
 
-Reference: [Andreas Graf](mailto:andreas.graf@xiag.ch)
+References: [Andreas Graf](mailto:andreas.graf@xiag.ch), [Max Moos](mailto:max.moos@homewinner.ch)
 
 ## Other small projects (pre-[GitHub](https://github.com/ikr/) times)
 
