@@ -84,10 +84,15 @@ course “UML, The Unified Modeling Language”.
 
 * JSZurich user group [presentation](http://vimeo.com/21795367) "Street Magic with Functions".
 
-* WebTuesday Zurich [lightning talk](http://vimeo.com/25572899) "7 Deadly Sins in Unit Testing".
+* WebTuesday Zurich lightning talks
+  * [7 Deadly Sins in Unit Testing](http://vimeo.com/25572899)
+  * [JSON Schema for HTTP API-s](http://techup.ch/1339/webtuesday-js-zurich-lightning-talks)
 
 * Zurich Frontend Conference 2012 [lightning talk](https://github.com/ikr/rise-against-the-state)
   "Rise against the state".
+
+* SwissJeese 2014 [presentation](http://www.swissjeese.com/) "From Gouda callbacks to Appenzeller
+CSP: a quick survey of asynchronous programming models"
 
 ## Professional Experience
 
