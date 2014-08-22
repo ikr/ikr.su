@@ -213,7 +213,8 @@ partnering with [Switzerland Travel Centre](http://www.stc.ch/).
 [Homewinner](http://www.homewinner.ch) — a real estate agency.
 
 Tech: **PHP**, Silex, Zend Framework, **JavaScript**, Node.js, Backbone.js, AngularJS, jQuery, CSS,
-Apache, nginx, Linux, SaltStack SCM, SOA, CouchDB, PostgreSQL, sqlite, Sphinx search, SOAP
+Apache, nginx, Linux, SaltStack SCM, SOA, CouchDB, PostgreSQL, Redis, sqlite, RabbitMQ, Sphinx
+search, SOAP
 
 I also maintained, or implemented new features for the following applications.
 
@@ -274,7 +275,7 @@ Ruby, Pascal, x86 Assembler, Prolog.
 
 * Yes, I also know SQL, a bit of PL/pgSQL, HTML, some CSS, and XSL.
 
-* Databases used: CouchDB, PostgreSQL, MySQL, sqlite, Oracle, MS SQL Server.
+* Databases used: CouchDB, PostgreSQL, Redis, MySQL, sqlite, Oracle, MS SQL Server.
 
 * Version control systems used: Git, Subversion, CVS, Team Foundation Server, Visual Source Safe
 
