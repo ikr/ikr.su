@@ -1,8 +1,8 @@
 body {
     margin: auto;
     width: 800px;
-    font-family: Verdana;
-    font-size: 12pt;
+    font-family: Helvetica,Arial,sans-serif;
+    font-size: 16px;
     background-color: rgb(14, 16, 38);
     color: rgb(200, 200, 200);
     padding: 1em 8em 4em 8em;
