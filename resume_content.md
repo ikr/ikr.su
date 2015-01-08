@@ -207,10 +207,10 @@ partnering with [Switzerland Travel Centre](http://www.stc.ch/).
 [Zentraljob.ch](http://zentraljob.ch).
 
 * Hotels booking engine of STC/[MySwitzerland](http://www.myswitzerland.com) –
-[www.swiss-hotels.com](https://www.swiss-hotels.com).
+[www.swisshotels.com](https://www.swisshotels.com).
 
-* Objects registration and tracking [application](http://ktm.homewinner.ch/) for
-[Homewinner](http://www.homewinner.ch) — a real estate agency.
+* Objects registration and tracking application for [Homewinner](http://www.homewinner.ch) — a real
+estate agency.
 
 Tech: **PHP**, Silex, Zend Framework, **JavaScript**, Node.js, Backbone.js, AngularJS, jQuery, CSS,
 Apache, nginx, Linux, SaltStack SCM, SOA, CouchDB, PostgreSQL, Redis, sqlite, RabbitMQ, Sphinx
