@@ -182,11 +182,11 @@ customers, wrote specifications, interviewed job candidates.
 
 After about a year I became desperate for coding. But I lacked the experience at the time with Web
 programming, and wasn't much inspired by PHP4 language. Luckily, we found a C++ project for me: a
-**digital photo prints** [ordering software](http://en.ifolor.ch/ordering_software_en_ch.Ifolor?ActiveID=1388)
-for Microsoft Windows. It had a custom look, simple image enhancement features, ordering Web GUI
-integration via an embedded Internet Explorer, network communication with the server for the photos
-upload, writing orders to CD/DVD for sending by post. When released, it was downloaded and **used by
-tens of thousands of people**.
+**digital photo prints** [ordering software](https://www.ifolor.ch/) for Microsoft Windows. It had a
+custom look, simple image enhancement features, ordering Web GUI integration via an embedded
+Internet Explorer, network communication with the server for the photos upload, writing orders to
+CD/DVD for sending by post. When released, it was downloaded and **used by tens of thousands of
+people**.
 
 Tech: **C++** on Win32, WTL/ATL, GDI+
 
@@ -194,12 +194,12 @@ Reference: [Andreas Graf](mailto:andreas.graf@xiag.ch)
 
 Left the position to do PhD in Holland.
 
-### October 2006—today: XIAG AG, Zürich
+### October 2006—today: XIAG AG, Zürich, then Winterthur
 
-Now I'm working at [XIAG](http://www.xiag.ch/) as a **programmer and project leader**. I'm
-interacting directly with the customers, specifying and estimating the projects' scope and
-iterations; I'm defining tasks for up to 4 other team members. But most of the time I'm writing
-code. I led the following Web applications' development from scratch.
+Now I'm working at [XIAG AG](http://www.xiag.ch/) as a **programmer and project leader**. I'm taking
+full responsibility for projects, interacting directly with customers, specifying and estimating the
+projects' scope and iterations; I'm defining tasks for up to 4 other team members. But most of the
+time I'm writing code. I led the following Web applications' development from scratch.
 
 * [Smile-o-meter](http://smile-o-meter.vns6.xiag.ch/). An app for surveying the employees'
 [satisfaction](img/smile-o-meter.png), and soliciting feedback.
@@ -216,26 +216,29 @@ partnering with [Switzerland Travel Centre](http://www.stc.ch/).
 * Hotels booking engine of STC/[MySwitzerland](http://www.myswitzerland.com) –
 [www.swisshotels.com](https://www.swisshotels.com).
 
-* Objects registration and tracking application for [Homewinner](http://www.homewinner.ch) — a real
-estate agency.
+* Objects registration and tracking application for Homewinner.ch (retired) — a real estate agency.
 
-Tech: **PHP**, Silex, Zend Framework, **JavaScript**, Node.js, Backbone.js, AngularJS, jQuery, CSS,
-Apache, nginx, Linux, SaltStack SCM, SOA, CouchDB, PostgreSQL, Redis, sqlite, RabbitMQ, Sphinx
-search, SOAP
+Tech: **PHP**, Silex, Zend Framework, **JavaScript**, Node.js, Backbone.js, AngularJS, React.js,
+Redux, jQuery, CSS, Apache, nginx, Linux, SaltStack SCM, SOA, CouchDB, PostgreSQL, Redis, sqlite,
+RabbitMQ, Sphinx search, SOAP
 
 I also maintained, or implemented new features for the following applications.
 
 * ifolor prints [ordering software](http://www.ifolor.ch/en/downloads) for Windows.
 
 * EngadinBooking.ch (retired) – an iFrame-able GUI for booking hotels, using an external
-Web-service.
+  Web-service.
 
 * [Engadin valley tourism portal](http://www.engadin.stmoritz.ch).
 
 * Older version of [Interhome Web statistics](https://webstats.interhome.com) reports. Aggregating
-and reporting the sales figures for the holiday apartments provided by [Interhome](http://www.interhome.ch/).
+  and reporting the sales figures for the holiday apartments provided by
+  [Interhome](http://www.interhome.ch/).
 
 * A file upload Java Applet for a Web site.
+
+* SBB train tickets [Web shop](https://shop.swissrailways.com/) for foreign tourists visiting
+  Switzerland. I also maintained the shop's administrative interface.
 
 Tech: PHP, JavaScript, CSS, C++, C#/ASP.NET, Java, Apache, Linux, PostgreSQL, MySQL, MS SQL Server
 
@@ -246,7 +249,7 @@ References: [Andreas Graf](mailto:andreas.graf@xiag.ch), [Max Moos](mailto:max.m
 * Miranda IM [plug-in](https://github.com/ikr/CyrTranslit)
 
 * Difference schemes for differential equations, Monte-Carlo methods, Genetic algorithms, Neural
-networks (C, C++, Pascal, Delphi)
+  networks (C, C++, Pascal, Delphi)
 
 * Physical process modeling (ANSI C)
 
@@ -265,11 +268,12 @@ networks (C, C++, Pascal, Delphi)
 object-oriented design, which mix quite well with [DRY](http://en.wikipedia.org/wiki/Don%27t_repeat_yourself),
 [YAGNI](http://en.wikipedia.org/wiki/You_ain't_gonna_need_it), and [KISS](http://en.wikipedia.org/wiki/KISS_principle).
 
-* I'm a functional programming enthusiast, being aware of dangers of _The State_, and understanding
-that not everything has to be an object.
+* I'm a **functional programming** enthusiast, being aware of dangers of _The State_, and
+  understanding that not everything has to be an object.
 
 * Programming languages I used professionally; sorted by my fluency as of _today_: best known —
-first, less known — last:
+  first, less known — last:
+
     1. PHP
     1. JavaScript
     1. C++
@@ -278,7 +282,7 @@ first, less known — last:
     1. C#
 
 * Other programming languages I used for fun and education: C, Scheme, Clojure, Erlang, Haskell,
-Ruby, Pascal, x86 Assembler, Prolog.
+  Elm, Ruby, Python, Pascal, x86 Assembler, Prolog.
 
 * Yes, I also know SQL, a bit of PL/pgSQL, HTML, some CSS, and XSL.
 
