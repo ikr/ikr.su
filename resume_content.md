@@ -91,8 +91,15 @@ course “UML, The Unified Modeling Language”.
 * Zurich Frontend Conference 2012 [lightning talk](https://github.com/ikr/rise-against-the-state)
   "Rise against the state".
 
-* SwissJeese 2014 [presentation](http://www.swissjeese.com/) "From Gouda callbacks to Appenzeller
-CSP: a quick survey of asynchronous programming models"
+* [SwissJeese 2014](http://www.swissjs.com/2014/schedule.html)
+  [presentation](https://ikr.su/h/SwissJeese2014.pdf) "From Gouda callbacks to Appenzeller CSP: a
+  quick survey of asynchronous programming models"
+
+* Zurich Frontend Conference 2015 [lightning talk](https://youtu.be/BC975EVJLA4?t=7m22s) "Why React
+  is different (no, really!)"
+
+* [Presenting](https://github.com/ikr/react-and-elm-architecture-intro/blob/master/xiag_pl_meeting_react_and_elm_architecture.pdf)
+  at XIAG AG the "Intro to React and the Elm Architecture"
 
 ## Professional Experience
 
