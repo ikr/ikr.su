@@ -145,11 +145,11 @@ handled by a different program.
 
 Tech: **Java** with Java2D and Swing, **C++** on Win32, **Visual Basic 5**
 
-Reference: [Alexander Osipov](http://db.iis.nsk.su/structure/personpage.asp?PersonID=138&lang=eng)
+Reference: [Alexander Osipov](mailto:shu@inetlab.com)
 
 Left the position because the company projects situation wan't stable and too promising, which
 greatly influenced the salary. For me that appeared to be a quick temporary employment after
-Auktion24 crash. However, I did like the people, and the work was quite a bit of fun.
+Auktion24 crash. However, I did like the team, and the work was quite a bit of fun.
 
 ### April 2002—September 2003: Center of Financial Technologies, Novosibirsk
 
@@ -169,7 +169,7 @@ Tech: Oracle, **Visual Basic 6**, **C++** on Win32, COM
 Reference: [Anatoly Lisovoy](mailto:A.Lisovoy@cft.ru)
 
 Left the position because of a lucrative offer from XIAG AG, and I thought that in a much smaller
-company, as a project leader, I'll be able to make the difference.
+company, as a project leader, I'll be able to make a difference.
 
 ### October 2003—September 2005: XIAG AG, Novosibirsk
 
