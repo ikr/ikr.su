@@ -25,7 +25,7 @@ top-2% students**.
 I studied at the department of mechanics and mathematics. We had _a lot_ of **Math**: mathematical
 analysis, theory of functions of a complex variable, mathematical logic, abstract algebra,
 computation methods, discrete mathematics, probability and statistics, you name it. Basically, the
-curriculum was: all the Math imaginable + gym class.
+curriculum was: all the Math imaginable + the gym class.
 
 In the last two years I did the research work at the chair of programming. My qualification work
 subject was “Forming the object-oriented data structures tailor-made for the search tasks”. In
@@ -40,11 +40,11 @@ full-time job. My master's thesis subject was: “Effective RDBMS usage in an ob
 application” — exploration on the topic of **object-relational mapping**. Regarding the curriculum,
 it was more of the **computer science**-related courses than during the bachelor's program.
 
-Reference: [Dr. Prof. Alexander Marchuk](http://db.iis.nsk.su/structure/personpage.asp?PersonID=54&lang=eng)
+Reference: [Dr. Prof. Alexander Marchuk](http://pdb.iis.nsk.su/en/person/324)
 
 ### October 2005—October 2006
 
-I worked as a **PhD Associate** at the [University of Twente](http://trese.cs.utwente.nl/) in
+I worked as a **PhD Associate** at the [University of Twente](https://www.utwente.nl/ewi/trese/) in
 Enschede, The **Netherlands**. My subject was: “Aspectual Refactoring of Software Architectures” —
 research in the field of **aspect-oriented** software development: **separation of concerns**,
 architectural aspects, architectural styles, software architecture design process, formalized
