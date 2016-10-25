@@ -60,27 +60,27 @@ Reference: [Prof. Dr. Ir. Mehmet Akşit](http://www.utwente.nl/ewi/trese/people/
 ## Publications
 
 * I. Krechetov. Relational Data Storage Support in an Object-Oriented Application. / Abstracts of
-international conference of young scientists "Mathematical modeling and information technologies",
-Novosibirsk, 2002, pp. 61 - 61.
+  international conference of young scientists "Mathematical modeling and information technologies",
+  Novosibirsk, 2002, pp. 61-61.
 
 * I. Krechetov. The Automated Building of SQL Queries for Object Data. / IIS SBRAS Preprint,
-vol. 118, Novosibirsk, 2004, 27 p.
+  vol. 118, Novosibirsk, 2004, 27 p.
 
 * I. Krechetov. Introduction of a Universal Persistence Layer for a Visual Basic Applications
-Suite. / Abstracts of conference-and-contest of students, post- graduates and young scientists
-"Microsoft technologies in informatics and programming", Novosibirsk, 2005, pp. 77 - 78.
+  Suite. / Abstracts of conference-and-contest of students, post- graduates and young scientists
+  "Microsoft technologies in informatics and programming", Novosibirsk, 2005, pp. 77-78.
 
-* I. Krechetov et al. Initial Version of Aspect-Oriented Architecture Design Approach. /
-AOSD-Europe NoE technical report D37, University of Twente, 2006, pp 1-57.
+* I. Krechetov et al. Initial Version of Aspect-Oriented Architecture Design Approach. / AOSD-Europe
+  NoE technical report D37, University of Twente, 2006, pp 1-57.
 
 * I. Krechetov et al. Towards an Integrated Aspect-Oriented Modeling Approach for Software
-Architecture Design. / 8th International Workshop on Aspect-Oriented Modeling at AOSD Conference,
-March 2006, Bonn, Germany.
+  Architecture Design. / 8th International Workshop on Aspect-Oriented Modeling at AOSD Conference,
+  March 2006, Bonn, Germany.
 
 ## Teaching and presentations
 
 * Novosibirsk State University, 1st semester, 2001: seminars, selected lectures and exams for the
-course “UML, The Unified Modeling Language”.
+  course “UML, The Unified Modeling Language”.
 
 * JSZurich user group [presentation](http://vimeo.com/21795367) "Street Magic with Functions".
 
@@ -137,9 +137,9 @@ Left the position because the project was declared a financial dead-end, and can
 
 ### October 2001—March 2002: iNetLab, Novosibirsk.
 
-* Developed a program for visual modeling in the field of **seismic geophysics**: drawing the earth and
-water layers, and assigning their attributes. Ultimately, the model is exported for computation
-handled by a different program.
+* Developed a program for visual modeling in the field of **seismic geophysics**: drawing the earth
+  and water layers, and assigning their attributes. Ultimately, the model is exported for
+  computation handled by a different program.
 
 * Handled miscellaneous maintenance and integration tasks for the existing projects.
 
@@ -202,19 +202,19 @@ projects' scope and iterations; I'm defining tasks for up to 4 other team member
 time I'm writing code. I led the following Web applications' development from scratch.
 
 * [Smile-o-meter](http://smile-o-meter.vns6.xiag.ch/). An app for surveying the employees'
-[satisfaction](img/smile-o-meter.png), and soliciting feedback.
+  [satisfaction](img/smile-o-meter.png), and soliciting feedback.
 
 * [Bruker BioSpin store](http://store.bruker-biospin.com). Online store of the scientific lab
-equipment.
+  equipment.
 
 * [STC B2B tool](https://trade.stc.ch). Hotel stay bundles booking platform used by travel agencies
-partnering with [Switzerland Travel Centre](http://www.stc.ch/).
+  partnering with [Switzerland Travel Centre](http://www.stc.ch/).
 
 * Job portals [jobs.nzz.ch](http://jobs.nzz.ch/), [Ostjob.ch](http://ostjob.ch) and
 [Zentraljob.ch](http://zentraljob.ch).
 
-* Hotels booking engine of STC/[MySwitzerland](http://www.myswitzerland.com) –
-[www.swisshotels.com](https://www.swisshotels.com).
+* Hotels booking engine of STC/[MySwitzerland](http://www.myswitzerland.com) —
+  [www.swisshotels.com](https://www.swisshotels.com).
 
 * Objects registration and tracking application for Homewinner.ch (retired) — a real estate agency.
 
