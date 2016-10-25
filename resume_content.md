@@ -262,20 +262,22 @@ References: [Andreas Graf](mailto:andreas.graf@xiag.ch), [Max Moos](mailto:max.m
 * I'm a test-driven development practitioner.
 
 * Deep knowledge of object-oriented analysis and design, awareness of software design and
-  architecture patterns.
+  architecture patterns. Have to say though, I'm somewhat disappointed with the conventional OO —
+  like in Java or C++, as it never delivered the true composability and scalability of abstractions.
 
-* I follow [SOLID](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod) principles of
-object-oriented design, which mix quite well with [DRY](http://en.wikipedia.org/wiki/Don%27t_repeat_yourself),
-[YAGNI](http://en.wikipedia.org/wiki/You_ain't_gonna_need_it), and [KISS](http://en.wikipedia.org/wiki/KISS_principle).
+* I follow [SOLID](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod) principles of program
+  design, which mix quite well with [DRY](http://en.wikipedia.org/wiki/Don%27t_repeat_yourself),
+  [YAGNI](http://en.wikipedia.org/wiki/You_ain't_gonna_need_it), and
+  [KISS](http://en.wikipedia.org/wiki/KISS_principle).
 
-* I'm a **functional programming** enthusiast, being aware of dangers of _The State_, and
+* I'm a **functional programming** enthusiast, being well aware of dangers of _The State_, and
   understanding that not everything has to be an object.
 
 * Programming languages I used professionally; sorted by my fluency as of _today_: best known —
   first, less known — last:
 
+    1. JavaScript (ES2015)
     1. PHP
-    1. JavaScript
     1. C++
     1. Java
     1. Visual Basic 6
