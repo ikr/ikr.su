@@ -16,6 +16,12 @@ programming techniques.
 
 ### Accomplishments
 
+* Made a customer's board of directors think an app was a static prototype because of how fast it
+  responded
+
+* Led a successful 2 man-year full rewrite, after the first full rewrite attempt with another vendor
+  has failed completely
+
 * Drove the adoption of better practices and tools, like
   * test-driven development
   * code reviews
