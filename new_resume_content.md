@@ -14,6 +14,20 @@ programming techniques.
 
 ## Oct 2006 — today Tech lead at XIAG AG (Zurich, Winterthur)
 
+### Accomplishments
+
+* Drove the adoption of better practices and tools, like
+  * test-driven development
+  * code reviews
+  * static analysis and linting
+  * continious integration
+  * PHP → Node.js
+  * jQuery → React/Redux
+  * app configuration automation with SaltStack and Vagrant
+  * CVS → Subversion → Git
+
+### Notable projects
+
 * SwissHotels.com, dozens of specialized partner sites
 * Trade.stc.ch — b2b hotel booking
 * Ostjob.ch, a few forks
@@ -35,4 +49,8 @@ programming techniques.
 
 ## 2001 — 2003 MSc in Applied Mathematics and Informatics (Novosibirsk)
 
+Graduated with honors
+
 ## 1996 — 2001 BSc in Mathematics (Novosibirsk)
+
+Graduated with honors, 100% excellent grades — in the top 2% of the course
