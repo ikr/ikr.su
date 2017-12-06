@@ -20,7 +20,7 @@ programming techniques.
   * test-driven development
   * code reviews
   * static analysis and linting
-  * continious integration
+  * continuous integration
   * PHP → Node.js
   * jQuery → React/Redux
   * app configuration automation with SaltStack and Vagrant
