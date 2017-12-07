@@ -21,7 +21,7 @@ preference for functional programming techniques.
   responded
 
 * Led a successful 2 man-year full rewrite, after the first full rewrite attempt with another vendor
-  has failed completely
+  has failed spectacularly
 
 * Drove the adoption of better practices and tools, like
   * test-driven development
@@ -30,6 +30,7 @@ preference for functional programming techniques.
   * continuous integration
   * PHP → Node.js
   * jQuery → React/Redux
+  * Underscore.js → Ramda
   * app configuration automation with SaltStack and Vagrant
   * CVS → Subversion → Git
 
