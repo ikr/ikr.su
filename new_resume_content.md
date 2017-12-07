@@ -2,7 +2,6 @@
 Ivan Krechetov
 Winterthur, Switzerland
 ikr@ikr.su
-+41 79 697 02 75
 ```
 
 # Objective
