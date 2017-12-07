@@ -39,6 +39,14 @@ programming techniques.
 * Ostjob.ch, a few forks
 * MS Windows-native digital photo prints ordering software for ifolor
 
+### Tech stacks
+
+* JavaScript, React/Redux, Elm, Angular, Node.js
+* PHP, Silex, Zend Framework, Nginx
+* PostgreSQL, Redis, CouchDB, Sphinx search
+* Linux, SaltStack SCM
+* C++ on Win32, WTL/ATL, GDI+
+
 ## Oct 2003 — Sep 2005 Project manager at XIAG AG (Novosibirsk)
 
 ## Apr 2002 — Sep 2003 Programmer at Center of Financial Technologies (Novosibirsk)
