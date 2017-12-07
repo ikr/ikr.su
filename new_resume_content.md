@@ -8,7 +8,7 @@ ikr@ikr.su
 
 Solve practical problems with well-crafted software that _actually works._ Will fill a tech lead or
 senior software engineer position. Up to a certain size, can take the full responsibility for a
-project, directly communicating with the customer, and delegating tasks to the team. Have a strong
+project, directly communicating with the customer, and delegating tasks in the team. Have a strong
 preference for functional programming techniques.
 
 # Experience
