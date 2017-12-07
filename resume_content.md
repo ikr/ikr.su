@@ -1,8 +1,6 @@
-```
-Ivan Krechetov
-Winterthur, Switzerland
-ikr@ikr.su
-```
+### Ivan Krechetov
+### Winterthur, Switzerland
+### ikr@ikr.su
 
 # Objective
 
