@@ -82,6 +82,8 @@ Tech: C++, Win32, MFC, Oracle
 
 ## Oct 2005 — Oct 2006 PhD assotiate at University of Twente (Enschede)
 
+Research topic: Aspect-oriented software architecture design
+
 ## 2001 — 2003 MSc in Applied Mathematics and Informatics (Novosibirsk)
 
 Graduated with honors
