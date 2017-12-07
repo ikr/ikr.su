@@ -6,10 +6,10 @@ ikr@ikr.su
 
 # Objective
 
-Solving practical problems with well crafted software that _actually works._ Will fill a tech lead
-or senior software engineer position. Up to a certain size, can take the full responsibility for a
-project, directly communicating with the customer. Have a strong preference for functional
-programming techniques.
+Solve practical problems with well-crafted software that _actually works._ Will fill a tech lead or
+senior software engineer position. Up to a certain size, can take the full responsibility for a
+project, directly communicating with the customer, and delegating tasks to the team. Have a strong
+preference for functional programming techniques.
 
 # Experience
 
