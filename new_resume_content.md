@@ -55,14 +55,14 @@ Learned quite a bit about hiring programmers. Realized I never want to be a mana
 
 ## Apr 2002 — Sep 2003 Programmer at Center of Financial Technologies (Novosibirsk)
 
-Working on internal platform development tools was rewarded twice for radically improving the user
-experience.
+Working on internal platform development tools was rewarded twice for significantly improving the
+user experience.
 
 Tech: Oracle, Visual Basic 6, C++ on Win32, COM
 
 ## Oct 2001 — Mar 2002 Programmer at iNetLab (Novosibirsk)
 
-Learned a bit about seismic geophysics and interfacing with Fortran code
+Learned a bit about seismic geophysics and interfacing with Fortran code.
 
 Tech: Java with Java2D and Swing, C++ on Win32, Visual Basic 5
 
@@ -70,7 +70,7 @@ Tech: Java with Java2D and Swing, C++ on Win32, Visual Basic 5
 
 The company which developed the very 1st version of ricardo.ch. After the Ricardo part had been
 sold, and the other product had failed to grow, almost all engineers (about 60) were fired. I was
-among of the few who were asked to stay to “keep the lights on”.
+among the few who were asked to stay to “keep the lights on”.
 
 Tech: Java, Linux, Apache JServ, XSLT, Oracle, Java RMI
 
