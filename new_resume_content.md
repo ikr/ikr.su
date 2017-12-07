@@ -61,6 +61,8 @@ Tech: Oracle, Visual Basic 6, C++ on Win32, COM
 
 ## Oct 2001 — Mar 2002 Programmer at iNetLab (Novosibirsk)
 
+Learned a bit about seismic geophysics and interfacing with Fortran code
+
 Tech: Java with Java2D and Swing, C++ on Win32, Visual Basic 5
 
 ## Oct 2000 — Sep 2001 Programmer at Auktion24 Development (Novosibirsk)
@@ -73,7 +75,7 @@ Tech: Java, Linux, Apache JServ, XSLT, Oracle, Java RMI
 
 ## Mar 2000 — Sep 2000 Junior Programmer at Glance AG (Zurich)
 
-Building a data model editor and code generator, on my own initiative, baked in an unlimited
+Building a data model editor and code generator, on my own initiative baked in an unlimited
 undo/redo feature. It was the first app in the company ever doing that.
 
 Tech: C++, Win32, MFC, Oracle
@@ -84,10 +86,10 @@ Tech: C++, Win32, MFC, Oracle
 
 Research topic: Aspect-oriented software architecture design
 
-## 2001 — 2003 MSc in Applied Mathematics and Informatics (Novosibirsk)
+## 2001 — 2003 MSc in Applied Mathematics and Informatics at Novosibirsk State University
 
 Graduated with honors
 
-## 1996 — 2001 BSc in Mathematics (Novosibirsk)
+## 1996 — 2001 BSc in Mathematics at Novosibirsk State University
 
 Graduated with honors, 100% excellent grades — one of the top 2% of students
