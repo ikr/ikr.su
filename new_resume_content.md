@@ -49,13 +49,33 @@ programming techniques.
 
 ## Oct 2003 — Sep 2005 Project manager at XIAG AG (Novosibirsk)
 
+Learned quite a bit about hiring programmers, realized I never want to be a manager again.
+
 ## Apr 2002 — Sep 2003 Programmer at Center of Financial Technologies (Novosibirsk)
+
+Working on internal platform development tools was rewarded twice for radically improving the user
+experience.
+
+Tech: Oracle, Visual Basic 6, C++ on Win32, COM
 
 ## Oct 2001 — Mar 2002 Programmer at iNetLab (Novosibirsk)
 
+Tech: Java with Java2D and Swing, C++ on Win32, Visual Basic 5
+
 ## Oct 2000 — Sep 2001 Programmer at Auktion24 Development (Novosibirsk)
 
+The company which developed the very 1st version of ricardo.ch. After the Ricardo part had been
+sold, and the other product had failed to grow, almost all engineers (about 60) were fired. I was
+among of the few who were asked to stay to “keep the lights on”.
+
+Tech: Java, Linux, Apache JServ, XSLT, Oracle, Java RMI
+
 ## Mar 2000 — Sep 2000 Junior Programmer at Glance AG (Zurich)
+
+Building a data model editor and code generator, on my own initiative, baked in an unlimited
+undo/redo feature. It was the first app in the company ever doing that.
+
+Tech: C++, Win32, MFC, Oracle
 
 # Education
 
@@ -67,4 +87,4 @@ Graduated with honors
 
 ## 1996 — 2001 BSc in Mathematics (Novosibirsk)
 
-Graduated with honors, 100% excellent grades — in the top 2% of the course
+Graduated with honors, 100% excellent grades — one of the top 2% of students
