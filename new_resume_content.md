@@ -1,7 +1,9 @@
+```
 Ivan Krechetov
 Winterthur, Switzerland
 ikr@ikr.su
 +41 79 697 02 75
+```
 
 # Objective
 
@@ -49,7 +51,7 @@ programming techniques.
 
 ## Oct 2003 — Sep 2005 Project manager at XIAG AG (Novosibirsk)
 
-Learned quite a bit about hiring programmers, realized I never want to be a manager again.
+Learned quite a bit about hiring programmers. Realized I never want to be a manager again.
 
 ## Apr 2002 — Sep 2003 Programmer at Center of Financial Technologies (Novosibirsk)
 
