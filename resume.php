@@ -18,8 +18,6 @@
 </head>
 
 <body>
-    <a href="https://github.com/ikr"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png" alt="Fork me on GitHub"></a>
-
 	<p id="go-up-p">
 		<a id="go-up-a" href="index.html" title="Back to homepage">..</a>
 	</p>
@@ -27,6 +25,12 @@
     <div id="photo-div">
         <img src="img/ikr.jpg" alt="IKR" title="Ivan Krechetov"/>
     </div>
+
+    <p>
+        Ivan Krechetov<br>
+        Winterthur<br>
+        ikr@ikr.su
+    </p>
 
     <!-- converted markdown start -->
 

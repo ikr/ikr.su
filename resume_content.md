@@ -1,7 +1,3 @@
-### Ivan Krechetov
-### Winterthur, Switzerland
-### ikr@ikr.su
-
 # Objective
 
 Solve practical problems with well-crafted software that _actually works._ Will fill a tech lead or
