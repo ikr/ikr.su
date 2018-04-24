@@ -2,8 +2,8 @@
 
 Solve practical problems with well-crafted software that _actually works._ Will fill a tech lead or
 senior software engineer position. Up to a certain size, can take the full responsibility for a
-project, directly communicating with the customer, and delegating tasks in the team. Have a strong
-preference for functional programming techniques.
+project, directly communicating with the customer, and delegating tasks in the team. Particularly
+excited about the functional programming techniques and advanced type systems.
 
 # Experience
 
@@ -45,7 +45,8 @@ preference for functional programming techniques.
 
 ## Oct 2003 — Sep 2005 Project manager at XIAG AG (Novosibirsk)
 
-Learned quite a bit about hiring programmers, and resolving conflicts. Realized I'd rather not to be a manager.
+Learned quite a bit about hiring programmers and resolving conflicts. Realized I'd rather not to be
+a manager.
 
 ## Apr 2002 — Sep 2003 Programmer at Center of Financial Technologies (Novosibirsk)
 
@@ -79,7 +80,8 @@ Tech: C++, Win32, MFC, Oracle
 
 ## Oct 2005 — Oct 2006 PhD assotiate at University of Twente (Enschede)
 
-Research topic: Aspect-oriented software architecture design. Quit the program, changed to industry work.
+Research topic: Aspect-oriented software architecture design. Quit the program, changed to industry
+work.
 
 ## 2001 — 2003 MSc in Applied Mathematics and Informatics at Novosibirsk State University
 
