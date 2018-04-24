@@ -7,7 +7,7 @@ excited about the functional programming techniques and advanced type systems.
 
 # Experience
 
-## Oct 2006 — today Tech lead at XIAG AG (Zurich, Winterthur)
+## 10/2006 — today Tech lead at XIAG AG (Zurich, Winterthur)
 
 ### Accomplishments
 
@@ -43,25 +43,25 @@ excited about the functional programming techniques and advanced type systems.
 * Linux, SaltStack SCM
 * C++ on Win32, WTL/ATL, GDI+
 
-## Oct 2003 — Sep 2005 Project manager at XIAG AG (Novosibirsk)
+## 10/2003 — 09/2005 Project manager at XIAG AG (Novosibirsk)
 
 Learned quite a bit about hiring programmers and resolving conflicts. Realized I'd rather not to be
 a manager.
 
-## Apr 2002 — Sep 2003 Programmer at Center of Financial Technologies (Novosibirsk)
+## 04/2002 — 09/2003 Programmer at Center of Financial Technologies (Novosibirsk)
 
 Working on internal platform development tools, was rewarded twice for significantly improving the
 user experience.
 
 Tech: Oracle, Visual Basic 6, C++ on Win32, COM
 
-## Oct 2001 — Mar 2002 Programmer at iNetLab (Novosibirsk)
+## 10/2001 — 03/2002 Programmer at iNetLab (Novosibirsk)
 
 Learned a bit about seismic geophysics and interfacing with Fortran code.
 
 Tech: Java with Java2D and Swing, C++ on Win32, Visual Basic 5
 
-## Oct 2000 — Sep 2001 Programmer at Auktion24 Development (Novosibirsk)
+## 10/2000 — 09/2001 Programmer at Auktion24 Development (Novosibirsk)
 
 The company which developed the very 1st version of ricardo.ch. After the Ricardo part had been
 sold, and the other product had failed to grow, almost all engineers (about 60) were fired. I was
@@ -69,7 +69,7 @@ among the few who were asked to stay to “keep the lights on”.
 
 Tech: Java, Linux, Apache JServ, XSLT, Oracle, Java RMI
 
-## Mar 2000 — Sep 2000 Junior Programmer at Glance AG (Zurich)
+## 03/2000 — 09/2000 Junior Programmer at Glance AG (Zurich)
 
 Building a data model editor and code generator, on my own initiative baked in an unlimited
 undo/redo feature. It was the first app in the company ever doing that.
@@ -78,7 +78,7 @@ Tech: C++, Win32, MFC, Oracle
 
 # Education
 
-## Oct 2005 — Oct 2006 PhD assotiate at University of Twente (Enschede)
+## 10/2005 — 10/2006 PhD assotiate at University of Twente (Enschede)
 
 Research topic: Aspect-oriented software architecture design. Quit the program, changed to industry
 work.
