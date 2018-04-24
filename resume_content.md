@@ -45,11 +45,11 @@ preference for functional programming techniques.
 
 ## Oct 2003 — Sep 2005 Project manager at XIAG AG (Novosibirsk)
 
-Learned quite a bit about hiring programmers. Realized I never want to be a manager again.
+Learned quite a bit about hiring programmers, and resolving conflicts. Realized I'd rather not to be a manager.
 
 ## Apr 2002 — Sep 2003 Programmer at Center of Financial Technologies (Novosibirsk)
 
-Working on internal platform development tools was rewarded twice for significantly improving the
+Working on internal platform development tools, was rewarded twice for significantly improving the
 user experience.
 
 Tech: Oracle, Visual Basic 6, C++ on Win32, COM
@@ -79,7 +79,7 @@ Tech: C++, Win32, MFC, Oracle
 
 ## Oct 2005 — Oct 2006 PhD assotiate at University of Twente (Enschede)
 
-Research topic: Aspect-oriented software architecture design
+Research topic: Aspect-oriented software architecture design. Quit the program, changed to industry work.
 
 ## 2001 — 2003 MSc in Applied Mathematics and Informatics at Novosibirsk State University
 
