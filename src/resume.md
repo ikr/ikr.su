@@ -25,7 +25,7 @@ date: 02 May 2018
 
 - 10/2003 — 09/2005 | Project manager at XIAG AG (Novosibirsk)
 
-> Learned quite a bit about hiring programmers and resolving conflicts. Realized I'd rather not to be a manager.
+> Learned quite a bit about hiring programmers and resolving conflicts. Realized I'd rather not be a manager.
 
 - 04/2002 — 09/2003 | Programmer at Center of Financial Technologies (Novosibirsk)
 
