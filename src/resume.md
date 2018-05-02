@@ -22,10 +22,9 @@ date: 02 May 2018
 
 > Tech stacks: JavaScript, React/Redux, Elm, Angular, Node.js, PHP, Silex, Zend Framework, Nginx, PostgreSQL, Redis, CouchDB, Sphinx search, Linux, SaltStack SCM, C++ on Win32, WTL/ATL, GDI+
 
+- 10/2003 — 09/2005 | Managing director at XIAG AG (Novosibirsk)
 
-- 10/2003 — 09/2005 | Project manager at XIAG AG (Novosibirsk)
-
-> Learned about hiring programmers and resolving conflicts. Realized I'd rather not be a manager.
+> Learned about hiring programmers, aqcuired some diplomacy skills
 
 - 04/2002 — 09/2003 | Programmer at Center of Financial Technologies (Novosibirsk)
 
