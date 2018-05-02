@@ -16,7 +16,7 @@ date: 02 May 2018
 
 - 10/2006 — today | Tech lead at XIAG AG (Zurich, Winterthur)
 
-> Accomplishments: Led a successful 2 man-year full rewrite, after the first full rewrite attempt with another vendor has failed. Made a customer's board of directors think an app was a static prototype because of how fast it responded. Drove the adoption of better practices and tools, like test-driven development, code reviews, static analysis and linting, continuous integration, PHP → Node.js, jQuery → React/Redux, Underscore.js → Ramda, app configuration automation with SaltStack and Vagrant, CVS → Subversion → Git.
+> Accomplishments: Led a successful 2 man-year full rewrite, after the first full rewrite attempt with another vendor has failed. Designed an app architecture for high performance, resulting in an implementation that was mistaken on a board meeting for a static prototype, because of how fast it responded. Drove the adoption of better practices and tools, like test-driven development, code reviews, static analysis and linting, continuous integration, PHP → Node.js, jQuery → React/Redux, Underscore.js → Ramda, app configuration automation with SaltStack and Vagrant, CVS → Subversion → Git.
 
 > Notable projects: SwissHotels.com with dozens of specialized partner sites, Trade.stc.ch — b2b hotel booking, Ostjob.ch with a few forks, MS Windows-native digital photo prints ordering software for ifolor
 
