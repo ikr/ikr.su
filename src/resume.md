@@ -43,13 +43,13 @@ date: 02 May 2018
 
 - 10/2000 — 09/2001 | Programmer at Auktion24 Development (Novosibirsk)
 
-> The company which developed the very 1st version of ricardo.ch. After the Ricardo part had been sold, and the other product had failed to grow, almost all engineers (about 60) were fired. Was among the few who were asked to stay to “keep the lights on”.
+> The company which developed the very 1st version of ricardo.ch. After the Ricardo part had been sold, and the new product WeTellYou.com had failed to grow, almost all engineers (about 60) were fired. Was among the few who were asked to stay to “keep the lights on”.
 
 > Tech: Java, Linux, Apache JServ, XSLT, Oracle, Java RMI
 
 - 03/2000 — 09/2000 | Junior Programmer at Glance AG (Zurich)
 
-> Building a data model editor and code generator, on my own initiative baked in an unlimited undo/redo feature. It was the first app in the company providing such capability.
+> Building a data model editor and code generator, on an own initiative implemented an unlimited undo/redo feature. It was the first app in the company providing such capability.
 
 > Tech: C++, Win32, MFC, Oracle
 
