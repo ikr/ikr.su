@@ -5,18 +5,18 @@ city: Winterthur
 postcode: 8404
 phone: +41 79 697 02 75
 email: ikr@ikr.su
-date: 02 May 2018
+date: 25 May 2018
 ...
 
 ### Objective
 
-> Solve practical problems with well-crafted software that _actually works._ Will fill a tech lead or senior software engineer position. Up to a certain size, can take the full responsibility for a project, directly communicating with the customer, and delegating tasks in the team. Particularly excited about the functional programming techniques and advanced type systems.
+> Will fill a tech lead or senior software engineer position. Up to a certain size, can take the full responsibility for a project, directly communicating with the customer, and delegating tasks in the team. Particularly excited about the functional programming techniques and advanced type systems.
 
 ### Experience
 
 - 10/2006 — today | Tech lead at XIAG AG (Zurich, Winterthur)
 
-> Accomplishments: Led a successful 2 man-year full rewrite, after the first full rewrite attempt with another vendor has failed. Designed an app architecture for high performance, resulting in an implementation that was mistaken on a board meeting for a static prototype, because of how fast it responded. Drove the adoption of better practices and tools, like test-driven development, code reviews, static analysis and linting, continuous integration, PHP → Node.js, jQuery → React/Redux, Underscore.js → Ramda, app configuration automation with SaltStack and Vagrant, CVS → Subversion → Git.
+> Accomplishments: Led a successful 2 man-year full rewrite, after the first full rewrite attempt with another vendor has failed. Changed an app architecture for high performance, resulting in orders-of-magnitude drop in latency. Drove the adoption of better practices and tools, like test-driven development, code reviews, static analysis and linting, continuous integration, PHP → Node.js, jQuery → React/Redux, Underscore.js → Ramda, app configuration automation with SaltStack and Vagrant, CVS → Subversion → Git.
 
 > Notable projects: SwissHotels.com with dozens of specialized partner sites, Trade.stc.ch — b2b hotel booking, Ostjob.ch with a few forks, MS Windows-native digital photo prints ordering software for ifolor
 
@@ -28,27 +28,25 @@ date: 02 May 2018
 
 - 04/2002 — 09/2003 | Programmer at Center of Financial Technologies (Novosibirsk)
 
-> Working on internal platform development tools, was rewarded twice with an out-of-cycle bonus for significantly improving the user experience
+> Worked on internal platform development tools
 
 > Tech: Oracle, Visual Basic 6, C++ on Win32, COM
 
-\newpage
-
 - 10/2001 — 03/2002 | Programmer at iNetLab (Novosibirsk)
 
-> Learned about the domain of seismic geophysics and interfacing with Fortran code.
+> Learned about the domain of seismic geophysics and interfacing with Fortran code
 
 > Tech: Java with Java2D and Swing, C++ on Win32, Visual Basic 5
 
 - 10/2000 — 09/2001 | Programmer at Auktion24 Development (Novosibirsk)
 
-> The company which developed the 1st version of ricardo.ch. After the Ricardo part had been sold, and the new product WeTellYou.com had failed to grow, almost all engineers (about 60) were fired. Was among the few who were asked to stay to “keep the lights on”.
+> Took part in building WeTellYou.com global expert exchange portal with billing ant telephony
 
 > Tech: Java, Linux, Apache JServ, XSLT, Oracle, Java RMI
 
 - 03/2000 — 09/2000 | Junior Programmer at Glance AG (Zurich)
 
-> Building a data model editor and code generator, on an own initiative implemented an unlimited undo/redo feature. It was the first app in the company providing such capability.
+> Built a data model editor and code generator
 
 > Tech: C++, Win32, MFC, Oracle
 
