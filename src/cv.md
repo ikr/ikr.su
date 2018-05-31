@@ -123,3 +123,5 @@ Visual Basic | 2 | ◯
 | Russian: native
 | English: fluent
 | German: about C1 de facto, B1 certified in 2013
+
+\hfill_31 May 2018_
