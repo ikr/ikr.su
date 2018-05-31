@@ -7,7 +7,7 @@
 
 # Objective
 
-Solve practical problems with well-crafted software that _actually works._ Will fill a tech lead or senior software engineer position. Up to a certain size, can take the full responsibility for a project, directly communicating with the customer, and delegating tasks in the team. Particularly excited about the functional programming techniques and advanced type systems.
+Solve practical problems with well-crafted software that _actually works._ Can fill a tech lead or senior software engineer position. Up to a certain size, can take the full responsibility for a project, directly communicating with the customer, and delegating tasks in the team. Particularly excited about the functional programming techniques and advanced type systems.
 
 # Experience
 
