@@ -36,7 +36,7 @@ JavaScript, React/Redux, Elm, Angular, Node.js, PHP, Silex, Zend Framework, Ngin
 
 ### Managing director at XIAG AG | Novosibirsk
 
-Learned about hiring programmers, aqcuired some diplomacy skills
+Learned about hiring programmers, acquired some diplomacy skills
 
 ## 04/2002 — 09/2003
 
