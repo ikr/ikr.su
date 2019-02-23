@@ -110,12 +110,13 @@ CouchDB | 3 | ◯ ◯ ◯
 Elm | 1 | ◯ ◯
 Functional JavaScript, TypeScript | 5 | ◯ ◯ ◯ ◯ ◯
 Java | 6 | ◯ ◯ ◯
-Node.js | 5 | ◯ ◯ ◯ ◯
+Kotlin | 1 | ◯ ◯ ◯ ◯
+Node.js | 5 | ◯ ◯ ◯
 Object-oriented design | 15 | ◯ ◯ ◯ ◯ ◯
 Oracle | 3  | ◯
-PHP | 10 | ◯ ◯ ◯ ◯
+PHP | 10 | ◯ ◯ ◯
 PostgreSQL | 11 | ◯ ◯ ◯
-Python | 2 | ◯ ◯ ◯ ◯
+Python | 2 | ◯ ◯ ◯
 React/Redux | 4 | ◯ ◯ ◯ ◯
 Redis | 3 | ◯ ◯ ◯
 SaltStack | 5 | ◯ ◯ ◯
