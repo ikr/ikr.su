@@ -104,7 +104,7 @@ AngularJS | 2 | ◯
 Bash | 10 | ◯ ◯
 C | 2 | ◯
 C++ | 6 | ◯ ◯ ◯ ◯
-CSS | 6 | ◯
+CSS | 6 | ◯ ◯
 Clojure | 1 | ◯ ◯
 CouchDB | 3 | ◯ ◯ ◯
 Elm | 1 | ◯ ◯
