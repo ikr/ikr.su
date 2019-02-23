@@ -1,6 +1,6 @@
 # Ivan Krechetov\hfill![](https://pbs.twimg.com/profile_images/898522710682292224/ZKJzBXkU_400x400.jpg){width=64 text-alignment=right}\
 
-| [http://ikr.su](http://ikr.su)
+| [https://ikr.su](http://ikr.su)
 | CH-8404 Winterthur
 | +41 79 697 02 75
 | [ikr@ikr.su](mailto:ikr@ikr.su)
@@ -11,7 +11,15 @@ Solve practical problems with well-crafted software that _actually works._ Can f
 
 # Experience
 
-## 10/2006 — today
+## 08/2018 — today
+
+### Senior software engineer at Digitalparking AG | Zurich
+
+“Full-stack” Web applications development in the domain of on-/off-street car parking: Parkingpay.ch and other mobile & desktop apps. The built system is used by drivers, parking zone operators, controllers.
+
+Tech: Kotlin, Java, PostgreSQL/jOOQ, TypeScript, React.
+
+## 10/2006 — 07/2018
 
 ### Tech lead at XIAG AG | Zurich, Winterthur
 
@@ -28,9 +36,7 @@ Solve practical problems with well-crafted software that _actually works._ Can f
 * Ostjob.ch with a few forks
 * MS Windows-native digital photo prints ordering software for ifolor
 
-### Tech stacks
-
-JavaScript, React/Redux, Elm, Angular, Node.js, PHP, Silex, Zend Framework, Nginx, PostgreSQL, Redis, CouchDB, Sphinx search, Linux, SaltStack SCM, C++ on Win32, WTL/ATL, GDI+
+Tech stacks: JavaScript, React/Redux, Elm, Angular, Node.js, PHP, Silex, Zend Framework, Nginx, PostgreSQL, Redis, CouchDB, Sphinx search, Linux, SaltStack SCM, C++ on Win32, WTL/ATL, GDI+
 
 ## 10/2003 — 09/2005
 
@@ -90,32 +96,30 @@ Graduated with honors
 
 Graduated with honors, 100% excellent grades — one of the top 2% of students
 
-\newpage
-
 # Skills
 
 Technology | Approx. years of exposure | Fluency at the moment
 --- | ---: | ---
-AngularJS | 2 | ◯ ◯
+AngularJS | 2 | ◯
 Bash | 10 | ◯ ◯
 C | 2 | ◯
-C++ | 5 | ◯ ◯
-CSS | 5 | ◯
+C++ | 6 | ◯ ◯ ◯ ◯
+CSS | 6 | ◯
 Clojure | 1 | ◯ ◯
 CouchDB | 3 | ◯ ◯ ◯
 Elm | 1 | ◯ ◯
-Functional JavaScript | 4 | ◯ ◯ ◯ ◯ ◯
-Java | 5 | ◯ ◯ ◯
+Functional JavaScript, TypeScript | 5 | ◯ ◯ ◯ ◯ ◯
+Java | 6 | ◯ ◯ ◯
 Node.js | 5 | ◯ ◯ ◯ ◯
 Object-oriented design | 15 | ◯ ◯ ◯ ◯ ◯
 Oracle | 3  | ◯
 PHP | 10 | ◯ ◯ ◯ ◯
-PostgreSQL | 10 | ◯ ◯ ◯
+PostgreSQL | 11 | ◯ ◯ ◯
 Python | 2 | ◯ ◯ ◯ ◯
-React/Redux | 3 | ◯ ◯ ◯ ◯
+React/Redux | 4 | ◯ ◯ ◯ ◯
 Redis | 3 | ◯ ◯ ◯
 SaltStack | 5 | ◯ ◯ ◯
-Test-driven development | 8 | ◯ ◯ ◯ ◯ ◯
+Test-driven development | 9 | ◯ ◯ ◯ ◯ ◯
 Visual Basic | 2 | ◯
 
 # Spoken languages
@@ -124,4 +128,4 @@ Visual Basic | 2 | ◯
 | English: fluent
 | German: about C1 de facto, B1 certified in 2013
 
-\hfill_31 May 2018_
+\hfill_23 February 2019_
