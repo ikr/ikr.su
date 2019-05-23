@@ -15,7 +15,7 @@ Solve practical problems with well-crafted software that _actually works._ Can f
 
 ### Senior software engineer at Digitalparking AG | Zurich
 
-“Full-stack” Web applications development in the domain of on-/off-street car parking: Parkingpay.ch and other mobile & desktop apps. The built system is used by drivers, parking zone operators, controllers.
+“Full-stack” Web applications development in the domain of on-/off-street car parking: Parkingpay.ch and other mobile & desktop apps. The built system is used by 100K+ drivers, parking zone operators, controllers.
 
 Tech: Kotlin, Java, PostgreSQL/jOOQ, TypeScript, React.
 
@@ -112,10 +112,10 @@ Functional JavaScript, TypeScript | 5 | ◯ ◯ ◯ ◯ ◯
 Java | 6 | ◯ ◯ ◯
 Kotlin | 1 | ◯ ◯ ◯ ◯
 Node.js | 5 | ◯ ◯ ◯
-Object-oriented design | 15 | ◯ ◯ ◯ ◯ ◯
 Oracle | 3  | ◯
 PHP | 10 | ◯ ◯ ◯
 PostgreSQL | 11 | ◯ ◯ ◯
+Program design — OOP, FP | 15 | ◯ ◯ ◯ ◯ ◯
 Python | 2 | ◯ ◯ ◯
 React/Redux | 4 | ◯ ◯ ◯ ◯
 Redis | 3 | ◯ ◯ ◯
@@ -129,4 +129,4 @@ Visual Basic | 2 | ◯
 | English: fluent
 | German: about C1 de facto, B1 certified in 2013
 
-\hfill_23 February 2019_
+\hfill_23 May 2019_
