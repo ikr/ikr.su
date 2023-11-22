@@ -4,6 +4,8 @@
 
 # Build CV
 
+Prerequisite: `texlive-full`
+
 ```
-$ pandoc -o ./cv.pdf ./src/cv.md
+$ pdflatex \\nonstopmode\\input cv.tex
 ```
